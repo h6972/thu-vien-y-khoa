@@ -15,14 +15,19 @@
     "Hoại tử nhiễm trùng: “bảo tồn trước”, step-up, chờ khoảng 4 tuần",
     "Cắt túi mật cùng đợt với thể nhẹ do sỏi (tái phát 9% so với 2%)"
   ],
-  "playlist": "",
+  "playlist": "https://youtube.com/playlist?list=PLNvB1QhFEdCo&si=DyARLMDG1p5QOuDy",
   "tai_lieu": [
-    { "id": "iap2025-ban-dich", "ten": "Bản dịch tiếng Việt Hướng dẫn xử trí viêm tụy cấp IAP 2025", "loai": "pdf", "link": "", "ghi_chu": "" }
+    {
+      "id": "iap2025-ban-dich",
+      "ten": "Bản dịch tiếng Việt Hướng dẫn xử trí viêm tụy cấp IAP 2025",
+      "loai": "pdf",
+      "link": "https://ouo.io/OSGTBcy"
+    }
   ],
   "phan": [
     {
-      "ten": "Nhận diện",
-      "youtube": "",
+      "ten": "Viêm tụy cấp IAP 2025 (P1): Chẩn đoán, tiên lượng và thời điểm chụp CT",
+      "youtube": "https://www.youtube.com/watch?v=YdeeGQyFuYo&list=PLNvB1QhFEdCo",
       "phut": 14,
       "tinh_huong": "Người bệnh ICU suy hô hấp kéo dài 72 giờ, hoại tử 30% nhu mô: yếu tố nào thực sự quyết định tử vong?",
       "moc": [
@@ -49,8 +54,8 @@
       ]
     },
     {
-      "ten": "72 giờ vàng",
-      "youtube": "",
+      "ten": "Viêm tụy cấp IAP 2025 (P2): Bù dịch Ringer lactat, WATERFALL và 72 giờ đầu",
+      "youtube": "https://youtu.be/vf3yEnjuXLA",
       "phut": 12,
       "tinh_huong": "Hoại tử 40%, sốt 38,5 °C, CRP 280 mg/l ngày 5, CT không có khí: có nên bắt đầu carbapenem?",
       "moc": [
@@ -75,8 +80,8 @@
       ]
     },
     {
-      "ten": "Dinh dưỡng – Đường mật – Hoại tử",
-      "youtube": "",
+      "ten": "Viêm tụy cấp IAP 2025 (P3): Dinh dưỡng sớm, ERCP và hoại tử tụy nhiễm trùng",
+      "youtube": "https://youtu.be/eTRU2XLugno",
       "phut": 12,
       "tinh_huong": "Hoại tử nhiễm trùng ngày 14, có khí trên CT, chưa có vỏ bao, huyết động ổn: mổ, chọc hút hay chờ?",
       "moc": [
@@ -101,7 +106,6 @@
     },
     {
       "ten": "Can thiệp & biến chứng",
-      "youtube": "",
       "phut": 13,
       "tinh_huong": "Thở máy, áp lực bàng quang 24 mmHg, thiểu niệu, cân bằng dịch +6 lít: mở bụng ngay hay làm gì trước?",
       "moc": [
@@ -126,7 +130,6 @@
     },
     {
       "ten": "Thể đặc biệt, sau xuất viện & tổng kết",
-      "youtube": "",
       "phut": 13,
       "tinh_huong": "Triglyceride 2800 mg/dL, chưa suy tạng: lọc huyết tương ngay hay insulin?",
       "moc": [
