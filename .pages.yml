@@ -5,6 +5,9 @@ content:
     type: collection
     path: content/chuyen-de
     format: json
+    filename:
+      template: "{primary}.json"
+      field: create
     view:
       primary: ten_ngan
       fields: [ten_ngan, chuyen_khoa, nam, an]
