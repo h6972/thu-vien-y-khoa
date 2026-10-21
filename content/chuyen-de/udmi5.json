@@ -1,0 +1,163 @@
+{
+  "ten_ngan": "UDMI-5",
+  "tieu_de": "Định nghĩa toàn cầu lần thứ 5 về nhồi máu cơ tim",
+  "chuyen_khoa": "tim",
+  "nam": 2026,
+  "thu_tu": 1,
+  "an": false,
+  "nguon": "Fifth Universal Definition of Myocardial Infarction – ESC/ACC/AHA/WHF 2026",
+  "tom_tat": "UDMI-5 bỏ phân loại type 1–5 và thay bằng ba nhóm lâm sàng: nhồi máu cơ tim nguyên phát, thứ phát và liên quan thủ thuật. Loạt 6 bài đi từ khái niệm tổn thương cơ tim cấp và mạn, phân loại mới, công cụ chẩn đoán, các tình huống đặc biệt tại hồi sức đến mã ICD-11 và chẩn đoán ở nơi nguồn lực hạn chế.",
+  "diem_chinh": [
+    "Chẩn đoán NMCT = tổn thương cơ tim cấp + ít nhất 1 bằng chứng thiếu máu cục bộ",
+    "Ngưỡng troponin bách phân vị 99 bắt buộc theo giới",
+    "SCAD, co thắt, thuyên tắc nay xếp vào NMCT nguyên phát",
+    "NMCT liên quan thủ thuật: trong 30 ngày, không dựa vào ngưỡng 5× hay 10× URL",
+    "Mã ICD-11 mới BA41.0/BA41.1 và Box 7 cho nơi không có troponin"
+  ],
+  "playlist": "",
+  "tai_lieu": [
+    { "id": "udmi5-ban-dich", "ten": "Bản dịch tiếng Việt UDMI-5 (2026)", "loai": "pdf", "link": "", "ghi_chu": "" }
+  ],
+  "phan": [
+    {
+      "ten": "Tổng quan & những điểm mới",
+      "youtube": "",
+      "phut": 10,
+      "tinh_huong": "Ca sốc nhiễm khuẩn, troponin tăng rồi giảm, không có dấu thiếu máu, siêu âm bình thường: NMCT thứ phát hay chỉ là tổn thương cơ tim cấp?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:30 6 phần – từ khái niệm đến thực hành",
+        "01:03 Gần 50 năm định nghĩa nhồi máu cơ tim",
+        "01:59 Nhồi máu cơ tim là gì?",
+        "02:36 Tiêu chuẩn chẩn đoán lâm sàng",
+        "03:13 Từ tiêu chuẩn đến thực tế lâm sàng",
+        "03:56 Hạn chế của phân loại theo con số",
+        "04:58 Ba bối cảnh lâm sàng của nhồi máu cơ tim",
+        "06:04 Từ type 1–5 đến phân loại lâm sàng",
+        "07:09 Sáu điểm mới cần nắm",
+        "08:03 Ba “bẫy” khi chuyển từ UDMI-4 sang UDMI-5",
+        "08:36 Áp dụng ngay: một ca tại hồi sức",
+        "09:21 Năm thông điệp mang về"
+      ]
+    },
+    {
+      "ten": "Tổn thương cơ tim cấp & mạn",
+      "youtube": "",
+      "phut": 11,
+      "tinh_huong": "Bệnh nhân lọc máu, troponin cao ổn định qua 2 lần đo: do suy thận hay cần tìm bệnh tim nền?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:23 Tổn thương cơ tim qua các phiên bản",
+        "01:11 Hiểu đúng công cụ trước khi diễn giải",
+        "01:59 Vì sao là bách phân vị thứ 99?",
+        "02:45 Giới tính và tuổi: hai biến số lớn",
+        "03:32 Tiêu chuẩn tổn thương cơ tim cấp",
+        "04:15 Cơ chế tổn thương cơ tim cấp",
+        "05:11 Troponin tăng không đồng nghĩa với hoại tử",
+        "05:55 Tiêu chuẩn tổn thương cơ tim mạn",
+        "06:28 Cơ chế tổn thương cơ tim mạn",
+        "07:12 Bệnh thận mạn: đừng vội đổ lỗi cho thận",
+        "08:11 Khi troponin “không khớp” với lâm sàng",
+        "09:03 Cấp hay mạn? Trình tự tiếp cận",
+        "09:48 Áp dụng: troponin tăng ở người bệnh lọc máu",
+        "10:32 Sáu thông điệp mang về"
+      ]
+    },
+    {
+      "ten": "Phân loại lâm sàng mới (Box 3–5)",
+      "youtube": "",
+      "phut": 12,
+      "tinh_huong": "Ngày 1 sau bắc cầu chủ vành, troponin 40× URL, ST chênh lan toả, cầu nối thông tốt: có phải NMCT liên quan thủ thuật?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:22 Độ nhạy hay độ đặc hiệu?",
+        "01:03 Khi nào nghĩ nhiều tới NMCT nguyên phát?",
+        "01:31 Xác nhận chẩn đoán: cần hình ảnh học",
+        "02:17 Các bệnh lý mạch vành cấp",
+        "03:10 Khi chụp mạch vành chưa trả lời được",
+        "03:53 Khi nào nghĩ tới NMCT thứ phát?",
+        "04:23 Từ “nghĩ tới” đến “xác nhận”",
+        "05:04 Vì sao chẩn đoán thứ phát khó?",
+        "06:00 Chiến lược hình ảnh học",
+        "06:46 Khi nào nghĩ tới NMCT liên quan thủ thuật?",
+        "07:21 Xác nhận chẩn đoán",
+        "08:23 Những bẫy sau thủ thuật tim",
+        "09:14 Biến cố sau thủ thuật: xếp nhóm nào?",
+        "10:01 Ca 1: ngày đầu sau bắc cầu chủ vành",
+        "10:53 Ca 2: đau ngực sau sinh",
+        "11:27 Sáu thông điệp mang về"
+      ]
+    },
+    {
+      "ten": "Công cụ chẩn đoán",
+      "youtube": "",
+      "phut": 15,
+      "tinh_huong": "Blốc nhánh trái cũ, đau ngực 40 phút, ST chênh lên 2 mm đồng hướng QRS: chờ troponin hay xử trí ngay?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:20 Nói “khó chịu ngực”, bỏ “điển hình”",
+        "01:02 Những người dễ bị bỏ sót",
+        "01:46 Tiêu chuẩn điện tim của thiếu máu cục bộ",
+        "02:47 Tắc mạch cấp nhưng không có ST chênh “kinh điển”",
+        "04:15 ST chênh lên không đồng nghĩa với NMCT",
+        "04:57 Điện tim trong từng nhóm NMCT",
+        "05:54 Động học troponin theo thời gian",
+        "06:50 Troponin sau thủ thuật và trong NMCT thứ phát",
+        "07:47 Thế nào là “tăng / giảm có ý nghĩa”?",
+        "08:40 Phác đồ chẩn đoán nhanh với hs-troponin",
+        "09:35 Tám nguyên tắc diễn giải troponin",
+        "10:31 Khi không có troponin độ nhạy cao",
+        "11:12 Chụp mạch vành và hơn thế nữa",
+        "12:30 Siêu âm, cộng hưởng từ, CT, y học hạt nhân",
+        "13:43 Ca 1: blốc nhánh trái cũ, đau ngực cấp",
+        "14:19 Ca 2: đến sớm, troponin lần đầu “bình thường”",
+        "14:53 Sáu thông điệp mang về"
+      ]
+    },
+    {
+      "ten": "Tình huống đặc biệt",
+      "youtube": "",
+      "phut": 13,
+      "tinh_huong": "Sau mổ đại tràng ngày 2, không đau ngực, troponin tăng gấp 4 so với nền, T âm mới, rối loạn vận động vùng mới: chẩn đoán gì?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:27 Chẩn đoán NMCT sau đột tử",
+        "01:12 Tử thiết và hình ảnh sau tử vong",
+        "02:04 NMCT không được nhận biết",
+        "03:00 Đau thắt ngực không ổn định vẫn còn chỗ đứng",
+        "03:56 MINOCA: định nghĩa mới",
+        "04:40 Khảo sát người bệnh MINOCA",
+        "05:33 NMCT tái phát sớm",
+        "06:23 Suy tim: troponin tăng là thường",
+        "07:22 Người bệnh nặng: NMCT hay bị bỏ sót",
+        "08:18 Tiếp cận NMCT tại hồi sức",
+        "09:12 Sau phẫu thuật ngoài tim",
+        "10:16 Can thiệp cấu trúc và ung bướu tim mạch",
+        "11:28 Ca 1: sau mổ bụng nguy cơ cao",
+        "12:11 Ca 2: động mạch vành bình thường",
+        "12:50 Sáu thông điệp mang về"
+      ]
+    },
+    {
+      "ten": "Thực hành & tổng kết",
+      "youtube": "",
+      "phut": 10,
+      "tinh_huong": "Trạm y tế xã không có troponin, ECG ST chênh lên V1–V4: đã đủ chẩn đoán NMCT chưa?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:23 Chẩn đoán NMCT ảnh hưởng cả cuộc đời",
+        "01:13 Đừng quên người bệnh NMCT thứ phát",
+        "01:57 Vì sao cần mã ICD-11 mới?",
+        "02:44 Đọc mã ICD-11 của nhồi máu cơ tim",
+        "03:52 Gánh nặng và thách thức",
+        "04:54 Chẩn đoán khi không có troponin và hình ảnh",
+        "05:21 Ý nghĩa của định nghĩa mới với nghiên cứu",
+        "06:25 Những câu hỏi còn bỏ ngỏ",
+        "07:26 Sơ đồ tư duy: từ troponin đến chẩn đoán",
+        "08:16 Ca 1: nhịp nhanh tại hồi sức",
+        "09:06 Ca 2: trạm y tế không có troponin",
+        "09:42 Tám thông điệp của UDMI-5"
+      ]
+    }
+  ]
+}

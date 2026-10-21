@@ -1,0 +1,106 @@
+{
+  "ten_ngan": "ATS 2026",
+  "tieu_de": "Hỗ trợ hô hấp không xâm lấn ở người lớn suy hô hấp cấp",
+  "chuyen_khoa": "hohap",
+  "nam": 2026,
+  "thu_tu": 3,
+  "an": false,
+  "nguon": "Noninvasive respiratory support for adult patients with acute respiratory failure – an official ATS Clinical Practice Guideline (2026)",
+  "tom_tat": "Lần đầu một hướng dẫn xem xét toàn diện HFNC, NIV và CPAP (qua mặt nạ hoặc helmet) trên toàn phổ suy hô hấp cấp, dựa trên phân tích gộp mạng lưới và GRADE. Loạt 4 bài theo 4 câu hỏi PICO: suy hô hấp giảm oxy máu, suy hô hấp tăng CO₂, tiền oxy hoá khi đặt nội khí quản và hỗ trợ sau rút ống.",
+  "diem_chinh": [
+    "Giảm oxy máu: HFNC khuyến cáo mạnh (đặt ống RR 0,76; tử vong RR 0,81)",
+    "Tăng CO₂: NIV qua mặt nạ khuyến cáo mạnh (tử vong RR 0,47); HFNC chỉ khi pH > 7,25 và chuyển NIV ngay được",
+    "Tiền oxy hoá: HFNC hoặc NIV thay cho oxy chuẩn, không trì hoãn đặt ống",
+    "Sau rút ống: nguy cơ cao → NIV xen quãng nghỉ HFNC; nguy cơ rất thấp → oxy chuẩn hoặc khí trời"
+  ],
+  "playlist": "",
+  "tai_lieu": [
+    { "id": "ats2026-ban-dich", "ten": "Bản dịch tiếng Việt Hướng dẫn hỗ trợ hô hấp không xâm lấn ATS 2026", "loai": "pdf", "link": "", "ghi_chu": "Đang kiểm tra điều kiện chia sẻ của ATS" }
+  ],
+  "phan": [
+    {
+      "ten": "Suy hô hấp giảm oxy máu",
+      "youtube": "",
+      "phut": 11,
+      "tinh_huong": "HFNC 60 L/phút, FiO₂ 0,8 sau 2 giờ vẫn thở 38 lần/phút, co kéo cơ hô hấp phụ: chờ thêm hay làm gì?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:29 Vì sao cần một hướng dẫn mới?",
+        "01:13 Bốn chiến lược và các giao diện",
+        "01:56 Cách xây dựng khuyến cáo",
+        "02:45 Suy hô hấp giảm oxy máu cấp: ba khuyến cáo",
+        "03:25 39 RCT, 7640 người bệnh: hiệu quả so với oxy chuẩn",
+        "04:17 Sự thoải mái, phân nhóm và thử nghiệm mới",
+        "04:58 Vì sao HFNC được khuyến cáo mạnh?",
+        "05:47 NIV và helmet: lợi ích nhỏ hơn, đòi hỏi nhiều hơn",
+        "06:37 Theo dõi sát và sẵn sàng nâng bậc",
+        "07:15 Những câu hỏi còn bỏ ngỏ",
+        "07:54 Năm bẫy khi dùng hỗ trợ không xâm lấn cho giảm oxy máu",
+        "08:37 Ca 1: viêm phổi tại khoa cấp cứu",
+        "09:30 Ca 2: hai giờ sau tại hồi sức",
+        "10:14 Sáu thông điệp của Phần 1"
+      ]
+    },
+    {
+      "ten": "Suy hô hấp tăng CO₂",
+      "youtube": "",
+      "phut": 10,
+      "tinh_huong": "Đợt cấp COPD pH 7,22, PaCO₂ 78, người bệnh xin dùng oxy dòng cao vì sợ mặt nạ: chiều theo hay không?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:27 Suy thông khí: khi bơm hô hấp không theo kịp",
+        "01:17 Hai khuyến cáo cho suy hô hấp tăng CO₂",
+        "01:55 Quần thể nghiên cứu: chủ yếu là COPD",
+        "02:29 Hiệu quả so với oxy chuẩn",
+        "03:29 NIV: khởi động sớm cho mọi người bệnh tăng CO₂",
+        "04:15 HFNC cho tăng CO₂ nhẹ: bốn điều kiện",
+        "05:18 Phù phổi cấp do tim: không phải đối tượng chính",
+        "05:55 Những câu hỏi còn bỏ ngỏ",
+        "06:30 Năm bẫy trong suy hô hấp tăng CO₂",
+        "07:08 Ca 1: đợt cấp COPD tại cấp cứu",
+        "08:02 Ca 2: tăng CO₂ nhẹ tại khoa nội",
+        "08:52 Sáu thông điệp của Phần 2"
+      ]
+    },
+    {
+      "ten": "Tiền oxy hoá khi đặt nội khí quản",
+      "youtube": "",
+      "phut": 7,
+      "tinh_huong": "Sốc nhiễm khuẩn, HA 70/40, lơ mơ, ứ đọng đờm: lắp NIV 15 phút để tiền oxy hoá có đúng không?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:24 Đặt nội khí quản ở người bệnh nặng: thủ thuật nguy cơ cao",
+        "00:58 Khuyến cáo tiền oxy hoá",
+        "01:25 Quần thể và thiết kế nghiên cứu",
+        "02:01 Giảm oxy máu quanh đặt ống: NIV và HFNC đều giảm",
+        "02:46 Vì sao khuyến cáo mạnh dù không giảm tử vong?",
+        "03:27 Phối hợp và tuần tự: hướng đi mới",
+        "03:51 Điều kiện triển khai an toàn",
+        "04:39 Năm bẫy khi tiền oxy hoá",
+        "05:17 Ca 1: quyết định đặt ống tại hồi sức",
+        "06:06 Ca 2: tại khoa cấp cứu",
+        "06:42 Năm thông điệp của Phần 3"
+      ]
+    },
+    {
+      "ten": "Sau rút ống & tổng kết",
+      "youtube": "",
+      "phut": 8,
+      "tinh_huong": "COPD 72 tuổi, thở máy 9 ngày, BMI 31, PaCO₂ 52 sắp rút ống: oxy gọng, HFNC hay NIV?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:28 Rút ống: một bước chuyển nguy hiểm",
+        "01:14 Khuyến cáo theo phân tầng nguy cơ",
+        "01:54 Đặc điểm nguy cơ cao suy hô hấp sau rút ống",
+        "02:25 Hiệu quả so với oxy chuẩn",
+        "03:04 Nguy cơ và thời điểm thay đổi hiệu quả",
+        "03:47 NIV xen kẽ HFNC: chiến lược thực dụng",
+        "04:29 Năm bẫy sau rút ống",
+        "05:09 Ca 1: rút ống tại hồi sức",
+        "05:58 Ca 2: rút ống sau phẫu thuật",
+        "06:31 Bốn tình huống – một sơ đồ",
+        "07:20 Tám thông điệp của ATS 2026"
+      ]
+    }
+  ]
+}

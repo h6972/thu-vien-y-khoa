@@ -1,0 +1,152 @@
+{
+  "ten_ngan": "IAP 2025",
+  "tieu_de": "Hướng dẫn xử trí viêm tụy cấp IAP 2025",
+  "chuyen_khoa": "tieu",
+  "nam": 2025,
+  "thu_tu": 2,
+  "an": false,
+  "nguon": "IAP Revised Guidelines on Acute Pancreatitis 2025 (IAP/APA/EPC/IPC/JPS) – Pancreatology 2025",
+  "tom_tat": "Bản cập nhật đầu tiên sau 12 năm: 18 lĩnh vực, 96 câu hỏi, đánh giá theo GRADE. Loạt 5 bài đi theo hành trình người bệnh, từ nhận diện, 72 giờ đầu, dinh dưỡng – đường mật – hoại tử, can thiệp và biến chứng, đến thể đặc biệt và theo dõi sau xuất viện. Các phần viêm tụy trẻ em, cường cận giáp, chấn thương tụy và rò ruột không đưa vào video, xem trong bản dịch.",
+  "diem_chinh": [
+    "Ringer lactat, tốc độ vừa phải 1,5 ml/kg/giờ (WATERFALL: quá tải dịch 21% so với 6%)",
+    "IL-6 > 50 pg/ml: nhạy 87%, đặc hiệu 88% để dự báo thể nặng",
+    "Chụp CT lần đầu sau 72–96 giờ, không chụp sớm",
+    "ERCP sớm chỉ khi có viêm đường mật",
+    "Hoại tử nhiễm trùng: “bảo tồn trước”, step-up, chờ khoảng 4 tuần",
+    "Cắt túi mật cùng đợt với thể nhẹ do sỏi (tái phát 9% so với 2%)"
+  ],
+  "playlist": "",
+  "tai_lieu": [
+    { "id": "iap2025-ban-dich", "ten": "Bản dịch tiếng Việt Hướng dẫn xử trí viêm tụy cấp IAP 2025", "loai": "pdf", "link": "", "ghi_chu": "" }
+  ],
+  "phan": [
+    {
+      "ten": "Nhận diện",
+      "youtube": "",
+      "phut": 14,
+      "tinh_huong": "Người bệnh ICU suy hô hấp kéo dài 72 giờ, hoại tử 30% nhu mô: yếu tố nào thực sự quyết định tử vong?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:25 Một bệnh thường gặp, đa số nhẹ, nhưng có thể tử vong",
+        "00:56 Từ IAP/APA 2013 đến IAP 2025",
+        "01:36 Đọc mức khuyến cáo trong hướng dẫn",
+        "02:07 Chẩn đoán viêm tụy cấp: 2 trên 3 tiêu chuẩn",
+        "02:40 Men tụy: giá trị và giới hạn",
+        "03:24 Mỗi phương tiện hình ảnh một vai trò",
+        "03:47 Tìm nguyên nhân ngay trong lần nhập viện",
+        "04:40 Viêm tụy vô căn: tìm tiếp sau xuất viện",
+        "05:35 Dự báo viêm tụy nặng trong 48 giờ đầu",
+        "06:15 IL-6 nổi lên như dấu ấn mạnh nhất",
+        "07:08 Thang điểm và yếu tố nguy cơ",
+        "07:50 Suy tạng kéo dài quyết định kết cục",
+        "08:29 Khi nào chuyển lên trung tâm lớn?",
+        "09:10 Chụp CT lần đầu: khi nào và vì sao không sớm?",
+        "09:58 Chụp lại và quy trình chụp",
+        "11:02 Năm bẫy thường gặp ở giai đoạn nhận diện",
+        "11:44 Ca 1: đau thượng vị tại khoa cấp cứu",
+        "12:38 Ca 2: tại khoa hồi sức",
+        "13:22 Sáu thông điệp của Phần 1"
+      ]
+    },
+    {
+      "ten": "72 giờ vàng",
+      "youtube": "",
+      "phut": 12,
+      "tinh_huong": "Hoại tử 40%, sốt 38,5 °C, CRP 280 mg/l ngày 5, CT không có khí: có nên bắt đầu carbapenem?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:25 Loại dịch: Ringer lactat",
+        "01:00 Tốc độ: vừa phải, không tích cực",
+        "01:29 Thử nghiệm đa trung tâm quốc tế (WATERFALL)",
+        "02:14 Vì sao bù dịch tích cực không có lợi?",
+        "02:42 Bốn pha của liệu pháp dịch",
+        "03:12 Mục tiêu đánh giá đáp ứng bù dịch",
+        "03:58 Theo dõi huyết động tại hồi sức",
+        "04:39 Giảm đau: opioid hoặc NSAID",
+        "05:38 Khi nào chuyển vào hồi sức?",
+        "06:19 Hỗ trợ tạng như mọi bệnh nhân nặng",
+        "06:46 Kháng sinh: khi nào thực sự cần?",
+        "07:29 Dấu hiệu nào để bắt đầu kháng sinh?",
+        "08:14 Ba biện pháp dự phòng: đều không khuyến cáo",
+        "08:56 Năm bẫy của 72 giờ đầu",
+        "09:34 Ca 1: giờ thứ 6 tại cấp cứu",
+        "10:31 Ca 2: ngày thứ 5 tại hồi sức",
+        "11:19 Sáu thông điệp của Phần 2"
+      ]
+    },
+    {
+      "ten": "Dinh dưỡng – Đường mật – Hoại tử",
+      "youtube": "",
+      "phut": 12,
+      "tinh_huong": "Hoại tử nhiễm trùng ngày 14, có khí trên CT, chưa có vỏ bao, huyết động ổn: mổ, chọc hút hay chờ?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:24 Ăn đường miệng càng sớm càng tốt",
+        "01:03 Không ăn được: nuôi qua sonde sớm",
+        "01:54 Công thức và đường đặt sonde",
+        "02:29 Nuôi ăn tĩnh mạch: chỉ khi đường ruột thất bại",
+        "03:13 ERCP sớm trong viêm tụy do sỏi mật",
+        "03:50 Vì sao không ERCP sớm khi không viêm đường mật?",
+        "04:30 Sỏi ống mật chủ không viêm đường mật",
+        "05:04 Hoại tử vô khuẩn: điều trị bảo tồn",
+        "05:54 Chẩn đoán hoại tử nhiễm trùng",
+        "06:52 Hoại tử nhiễm trùng: “bảo tồn trước”",
+        "07:40 Kháng sinh và kháng nấm trong hoại tử nhiễm trùng",
+        "08:37 Thế nào là thất bại điều trị bảo tồn?",
+        "09:20 Năm bẫy của phần dinh dưỡng – đường mật – hoại tử",
+        "09:54 Ca 1: viêm tụy nặng do sỏi",
+        "10:37 Ca 2: ngày 14 tại hồi sức",
+        "11:22 Sáu thông điệp của Phần 3"
+      ]
+    },
+    {
+      "ten": "Can thiệp & biến chứng",
+      "youtube": "",
+      "phut": 13,
+      "tinh_huong": "Thở máy, áp lực bàng quang 24 mmHg, thiểu niệu, cân bằng dịch +6 lít: mở bụng ngay hay làm gì trước?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:28 Chỉ định can thiệp viêm tụy hoại tử",
+        "01:06 Đồng hồ của hoại tử: vì sao chờ 4 tuần?",
+        "01:55 Chọc dẫn lưu dịch ổ bụng giai đoạn cấp",
+        "02:26 Chiến lược step-up: chờ – dẫn lưu – cắt lọc",
+        "03:11 Dẫn lưu qua da hay nội soi xuyên thành?",
+        "03:59 Stent nhựa hay stent kim loại áp lòng (LAMS)?",
+        "04:40 Khi nào cần cắt lọc hoại tử?",
+        "05:26 Chọn kỹ thuật cắt lọc",
+        "06:28 Tăng áp lực ổ bụng và hội chứng khoang bụng",
+        "07:16 Xử trí tăng áp lực ổ bụng",
+        "08:18 Biến chứng chảy máu: nút mạch là lựa chọn đầu",
+        "09:12 Huyết khối tĩnh mạch tạng",
+        "10:02 Năm bẫy của can thiệp và biến chứng",
+        "10:34 Ca 1: ngày 3 tại hồi sức",
+        "11:23 Ca 2: tuần thứ 5",
+        "12:11 Sáu thông điệp của Phần 4"
+      ]
+    },
+    {
+      "ten": "Thể đặc biệt, sau xuất viện & tổng kết",
+      "youtube": "",
+      "phut": 13,
+      "tinh_huong": "Triglyceride 2800 mg/dL, chưa suy tạng: lọc huyết tương ngay hay insulin?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:34 Viêm tụy do tăng triglyceride: hạ triglyceride bằng insulin",
+        "01:33 Lọc huyết tương: chọn lọc, không thường quy",
+        "02:15 Dinh dưỡng và mục tiêu triglyceride lâu dài",
+        "03:17 Phòng viêm tụy sau ERCP",
+        "04:23 Ai là người nguy cơ cao viêm tụy sau ERCP?",
+        "04:48 Viêm tụy cấp trong thai kỳ",
+        "05:48 Điều trị đích: chưa có thuốc nào được khuyến cáo",
+        "06:28 Khi nào an toàn cho xuất viện?",
+        "07:19 Thời điểm cắt túi mật",
+        "08:11 Viêm tụy cấp không kết thúc khi ra viện",
+        "09:12 Chất lượng sống, phòng tái phát và hội chứng ống tụy đứt rời",
+        "09:57 Năm bẫy của phần cuối",
+        "10:36 Ca 1: triglyceride 2800 mg/dL",
+        "11:23 Ca 2: viêm tụy nhẹ do sỏi hồi phục",
+        "12:02 Mười thông điệp của IAP 2025"
+      ]
+    }
+  ]
+}

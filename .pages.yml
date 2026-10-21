@@ -1,0 +1,126 @@
+# Cấu hình trang quản trị Pages CMS (https://app.pagescms.org) — sửa nội dung web qua trình duyệt
+content:
+  - name: chuyen-de
+    label: Chuyên đề
+    type: collection
+    path: content/chuyen-de
+    format: json
+    view:
+      primary: ten_ngan
+      fields: [ten_ngan, chuyen_khoa, nam, an]
+    fields:
+      - name: ten_ngan
+        label: Tên ngắn (hiện trên thẻ)
+        type: string
+        required: true
+      - name: tieu_de
+        label: Tiêu đề đầy đủ
+        type: string
+        required: true
+      - name: chuyen_khoa
+        label: Chuyên khoa
+        type: select
+        required: true
+        options:
+          values:
+            - { value: tim, label: Tim mạch }
+            - { value: tieu, label: Tiêu hoá }
+            - { value: hohap, label: Hô hấp }
+            - { value: nhiem, label: Truyền nhiễm }
+      - name: nam
+        label: Năm
+        type: number
+      - name: thu_tu
+        label: Thứ tự trên trang chủ (số nhỏ hiện trước)
+        type: number
+      - name: an
+        label: Ẩn chuyên đề này
+        type: boolean
+      - name: nguon
+        label: Nguồn (trích dẫn guideline gốc)
+        type: string
+      - name: tom_tat
+        label: Tóm tắt
+        type: text
+        required: true
+      - name: diem_chinh
+        label: Điểm cần nhớ
+        type: string
+        list: true
+      - name: playlist
+        label: Link danh sách phát YouTube
+        type: string
+      - name: tai_lieu
+        label: Tài liệu tải về
+        type: object
+        list: true
+        fields:
+          - name: id
+            label: Mã tài liệu (không dấu, không đổi sau khi đăng, dùng để đếm lượt tải)
+            type: string
+            required: true
+          - name: ten
+            label: Tên tài liệu
+            type: string
+            required: true
+          - name: loai
+            label: Loại
+            type: select
+            options:
+              values:
+                - { value: pdf, label: Bản dịch / PDF }
+                - { value: sotay, label: Sổ tay HTML }
+                - { value: slide, label: Slide }
+                - { value: bai, label: Bài viết }
+          - name: link
+            label: Link Google Drive (để trống = hiện "Sắp có")
+            type: string
+          - name: ghi_chu
+            label: Ghi chú ngắn
+            type: string
+      - name: phan
+        label: Các phần video
+        type: object
+        list: true
+        fields:
+          - name: ten
+            label: Tên phần
+            type: string
+            required: true
+          - name: youtube
+            label: Link hoặc ID video YouTube (để trống = "sắp cập nhật")
+            type: string
+          - name: phut
+            label: Thời lượng (phút)
+            type: number
+          - name: tinh_huong
+            label: Câu hỏi tình huống
+            type: text
+          - name: moc
+            label: Mốc thời gian (mỗi dòng dạng "01:23 Tên mục")
+            type: string
+            list: true
+
+  - name: site
+    label: Cài đặt chung
+    type: file
+    path: content/site.json
+    format: json
+    fields:
+      - { name: ten, label: Tên web, type: string }
+      - { name: url, label: Địa chỉ web (đổi khi có tên miền), type: string }
+      - { name: mo_ta, label: Mô tả ngắn, type: text }
+      - { name: tac_gia, label: Tác giả, type: string }
+      - { name: noi_lam_viec, label: Nơi làm việc, type: string }
+      - { name: youtube_kenh, label: Link kênh YouTube, type: string }
+      - { name: facebook, label: Link trang Facebook, type: string }
+      - { name: tiktok, label: Link TikTok, type: string }
+      - { name: email_apps_script_url, label: URL Apps Script nhận email, type: string }
+      - name: giscus
+        label: Bình luận Giscus
+        type: object
+        fields:
+          - { name: repo, label: Repo, type: string }
+          - { name: repo_id, label: data-repo-id, type: string }
+          - { name: category, label: Tên danh mục, type: string }
+          - { name: category_id, label: data-category-id, type: string }
