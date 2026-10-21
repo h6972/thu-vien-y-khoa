@@ -99,6 +99,11 @@ function socials() {
   const l = [['youtube_kenh', 'YouTube'], ['facebook', 'Facebook'], ['tiktok', 'TikTok']].filter(([k]) => site[k]);
   return l.length ? `<span>${l.map(([k, n]) => `<a href="${esc(site[k])}" target="_blank" rel="noopener">${n}</a>`).join(' · ')}</span>` : '';
 }
+function follow() {
+  const l = [['youtube_kenh', 'YouTube', 'Trọn bộ video bài giảng theo từng loạt'], ['facebook', 'Facebook', 'Bài đăng tóm tắt và thông báo chuyên đề mới'], ['tiktok', 'TikTok', 'Video ngắn ôn nhanh điểm chính']].filter(([k]) => site[k]);
+  if (!l.length) return '';
+  return `<section><h2>Theo dõi kênh</h2><div class="dl">${l.map(([k, n, m]) => `<a href="${esc(site[k])}" target="_blank" rel="noopener"><span><strong>${n}</strong><small>${m}</small></span><span class="go">Mở</span></a>`).join('')}</div></section>`;
+}
 function subscribe() {
   return `<section><div class="box">
 <h2>Nhận chuyên đề mới qua email</h2>
@@ -144,7 +149,7 @@ ${moc}</article>`;
   }).join('');
   const docs = t.tai_lieu.map(d => {
     const l = LOAI[d.loai] || LOAI.pdf;
-    const info = `<span><strong>${esc(d.ten)}</strong><small>${l[0]} · Google Drive${d.ghi_chu ? ' · ' + esc(d.ghi_chu) : ''}</small></span>`;
+    const info = `<span><strong>${esc(d.ten)}</strong><small>${l[0]}${d.ghi_chu ? ' · ' + esc(d.ghi_chu) : ''}</small></span>`;
     return d.link
       ? `<a href="/tai/${esc(d.id)}/" target="_blank" rel="noopener">${info}<span class="go">Tải về<span class="count" data-count="${esc(d.id)}" hidden></span></span></a>`
       : `<div class="soon">${info}<span class="go">Sắp có</span></div>`;
@@ -190,6 +195,7 @@ ${specChips('data-lib="s" aria-label="Chuyên khoa"', 'Mọi chuyên khoa')}
 const about = page({ title: 'Giới thiệu', path: '/gioi-thieu/', nav: 'gioithieu', body: `<div class="stack"><span class="eyebrow">Giới thiệu</span><h1>Về ${esc(site.ten)}</h1>
 <p class="lede">${esc(site.ten)} là kênh chia sẻ kiến thức y khoa cho nhân viên y tế. Mỗi guideline quốc tế mới được dịch sang tiếng Việt, tóm tắt thành loạt video bài giảng và kèm tình huống lâm sàng tại hồi sức.</p>
 <section><h2>Bản quyền tài liệu</h2><p class="lede">Bản dịch chỉ được chia sẻ khi điều kiện của nhà xuất bản cho phép. Với tài liệu bị hạn chế, trang chỉ đăng tóm tắt và video, kèm thông tin để bạn tìm bản gốc.</p></section>
+${follow()}
 <section><h2>Đề xuất chuyên đề</h2><p class="lede">Để lại bình luận ở cuối mỗi chuyên đề hoặc nhắn qua trang mạng xã hội của kênh.</p></section></div>` });
 const notFound = page({ title: 'Không tìm thấy trang', path: '/404', body: `<div class="stack"><h1>Không tìm thấy trang</h1><p class="lede">Đường link có thể đã đổi. Bạn xem danh sách chuyên đề ở trang chủ hoặc tìm trong thư viện.</p><div class="chips"><a class="btn" href="/">Về trang chủ</a><a class="btn ghost" href="/thu-vien/">Mở thư viện</a></div></div>` });
 

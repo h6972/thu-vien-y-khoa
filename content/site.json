@@ -2,9 +2,9 @@
   "ten": "Thư Viện Y Khoa Online",
   "url": "https://thuvienykhoa.online",
   "mo_ta": "Bài giảng video và bản dịch tiếng Việt các guideline y khoa mới, ưu tiên góc nhìn hồi sức cấp cứu.",
-  "youtube_kenh": "",
-  "facebook": "",
-  "tiktok": "",
+  "youtube_kenh": "https://www.youtube.com/@thuvienykhoa.online",
+  "facebook": "https://www.facebook.com/thuvienykhoaonline",
+  "tiktok": "https://www.tiktok.com/@thuvienykhoa.online",
   "email_apps_script_url": "",
   "giscus": {
     "repo": "h6972/thu-vien-y-khoa",
