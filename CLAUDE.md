@@ -1,6 +1,6 @@
 # Thư Viện Y Khoa Online — ghi chú cho Claude
 
-Web tĩnh tiếng Việt của kênh Thư Viện Y Khoa Online (BS. Nguyễn Văn Hướng). Tập hợp các loạt video bài giảng guideline (repo video: h6972/video-y), tóm tắt, link tải bản dịch trên Google Drive.
+Web tĩnh tiếng Việt của kênh Thư Viện Y Khoa Online. Tập hợp các loạt video bài giảng guideline (repo video: h6972/video-y), tóm tắt, link tải bản dịch trên Google Drive.
 
 ## Cấu trúc
 - `build.mjs` — bộ dựng không phụ thuộc thư viện: đọc `content/`, ghi `dist/`. Chạy `node build.mjs`. Lỗi nội dung → thoát mã 1 kèm danh sách lỗi.
@@ -21,4 +21,5 @@ Web tĩnh tiếng Việt của kênh Thư Viện Y Khoa Online (BS. Nguyễn Vă
 ## Lưu ý
 - Không đổi `id` tài liệu đã đăng (bộ đếm KV dựa vào id).
 - Bản quyền: chỉ điền `link` bản dịch khi điều kiện nhà xuất bản cho phép (ATS 2026 đang chờ kiểm tra).
+- Không ghi tên cá nhân của chủ web trên trang; chỉ dùng thương hiệu "Thư Viện Y Khoa Online".
 - Giữ giọng văn: tiếng Việt chuyên môn, ngắn gọn, không emoji trên web.

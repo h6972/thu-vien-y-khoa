@@ -113,8 +113,6 @@ content:
       - { name: ten, label: Tên web, type: string }
       - { name: url, label: Địa chỉ web (đổi khi có tên miền), type: string }
       - { name: mo_ta, label: Mô tả ngắn, type: text }
-      - { name: tac_gia, label: Tác giả, type: string }
-      - { name: noi_lam_viec, label: Nơi làm việc, type: string }
       - { name: youtube_kenh, label: Link kênh YouTube, type: string }
       - { name: facebook, label: Link trang Facebook, type: string }
       - { name: tiktok, label: Link TikTok, type: string }

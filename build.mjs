@@ -85,7 +85,7 @@ function page({ title, desc, path, body, nav }) {
 </div></header>
 <main class="wrap">${body}</main>
 <footer><div class="wrap">
-  <span>${esc(site.ten)} · Biên soạn: ${esc(site.tac_gia)}</span>
+  <span>© ${new Date().getFullYear()} ${esc(site.ten)}</span>
   <span>Tài liệu phục vụ mục đích giáo dục cho nhân viên y tế, không thay thế hướng dẫn chính thức và đánh giá lâm sàng.</span>
   ${socials()}
 </div></footer>
@@ -188,7 +188,7 @@ ${specChips('data-lib="s" aria-label="Chuyên khoa"', 'Mọi chuyên khoa')}
 
 // ---------- giới thiệu, 404 ----------
 const about = page({ title: 'Giới thiệu', path: '/gioi-thieu/', nav: 'gioithieu', body: `<div class="stack"><span class="eyebrow">Giới thiệu</span><h1>Về ${esc(site.ten)}</h1>
-<p class="lede">Kênh do ${esc(site.tac_gia)} (${esc(site.noi_lam_viec)}) thực hiện. Mỗi guideline quốc tế mới được dịch sang tiếng Việt, tóm tắt thành loạt video bài giảng và kèm tình huống lâm sàng tại hồi sức.</p>
+<p class="lede">${esc(site.ten)} là kênh chia sẻ kiến thức y khoa cho nhân viên y tế. Mỗi guideline quốc tế mới được dịch sang tiếng Việt, tóm tắt thành loạt video bài giảng và kèm tình huống lâm sàng tại hồi sức.</p>
 <section><h2>Bản quyền tài liệu</h2><p class="lede">Bản dịch chỉ được chia sẻ khi điều kiện của nhà xuất bản cho phép. Với tài liệu bị hạn chế, trang chỉ đăng tóm tắt và video, kèm thông tin để bạn tìm bản gốc.</p></section>
 <section><h2>Đề xuất chuyên đề</h2><p class="lede">Để lại bình luận ở cuối mỗi chuyên đề hoặc nhắn qua trang mạng xã hội của kênh.</p></section></div>` });
 const notFound = page({ title: 'Không tìm thấy trang', path: '/404', body: `<div class="stack"><h1>Không tìm thấy trang</h1><p class="lede">Đường link có thể đã đổi. Bạn xem danh sách chuyên đề ở trang chủ hoặc tìm trong thư viện.</p><div class="chips"><a class="btn" href="/">Về trang chủ</a><a class="btn ghost" href="/thu-vien/">Mở thư viện</a></div></div>` });
