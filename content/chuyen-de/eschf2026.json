@@ -1,0 +1,165 @@
+{
+  "ten_ngan": "ESC 2026 Suy tim",
+  "tieu_de": "Hướng dẫn chẩn đoán và điều trị suy tim – ESC 2026",
+  "chuyen_khoa": "tim",
+  "nam": 2026,
+  "thu_tu": 6,
+  "an": false,
+  "nguon": "2026 ESC Guidelines for the management of heart failure (European Heart Journal 2026)",
+  "tom_tat": "Hướng dẫn suy tim ESC 2026 thay đổi lớn về khái niệm: suy tim phân suất tống máu giảm mở rộng đến LVEF < 50%, bỏ nhóm phân suất tống máu giảm nhẹ, “suy tim mất bù” thay cho “suy tim cấp” và áp dụng giai đoạn A–D. Loạt 6 bài đi qua phân loại và phòng ngừa, chẩn đoán, điều trị nội khoa, thiết bị và bệnh đồng mắc tim mạch, suy tim mất bù và sốc tim, đến suy tim tiến triển, bệnh đồng mắc ngoài tim và các tình huống đặc biệt, kèm ôn tập toàn loạt ở phần cuối.",
+  "diem_chinh": [
+    "HFrEF nay là LVEF < 50%, bỏ HFmrEF; HFpEF cần LVEF ≥ 50% kèm bằng chứng khách quan rối loạn tâm trương và peptide tăng",
+    "NT-proBNP theo tuổi: ≥ 125 (< 50 tuổi), ≥ 250 (50–74), ≥ 500 (≥ 75) pg/mL; > 2000 cần siêu âm trong 2 tuần",
+    "SGLT2-I và MRA cho mọi LVEF; bốn trụ cột HFrEF khởi đầu cùng lúc, tăng liều ít nhất mỗi 1–2 tuần (khuyến cáo mới)",
+    "Rung nhĩ: chẹn beta đầu tay, cắt nút nhĩ thất kèm CRT (mới); TEER hở hai lá thứ phát lên nhóm I",
+    "Suy tim mất bù: lợi tiểu theo natri niệu, SGLT2-I khởi đầu trong viện, Shock Team và bơm vi trục cho sốc tim do STEMI",
+    "Semaglutide/tirzepatide khi LVEF ≥ 45%, BMI ≥ 30; thiếu sắt định nghĩa TSAT < 20%; ATTR: tafamidis, acoramidis, vutrisiran"
+  ],
+  "playlist": "",
+  "tai_lieu": [
+    {
+      "id": "eschf2026-ban-dich",
+      "ten": "Bản dịch tiếng Việt Hướng dẫn suy tim ESC 2026",
+      "loai": "pdf"
+    }
+  ],
+  "phan": [
+    {
+      "ten": "Khái niệm mới, phân loại và phòng ngừa",
+      "youtube": "",
+      "phut": 13,
+      "tinh_huong": "Sau nhồi máu 3 tháng, không triệu chứng, LVEF 42%: cần thêm thuốc gì?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:35 Suy tim là gì?",
+        "01:13 Dịch tễ và tiên lượng",
+        "02:11 Phân loại theo LVEF: từ ba nhóm còn hai nhóm",
+        "03:11 LVEF cải thiện và giới hạn của một ngưỡng",
+        "03:46 Bốn giai đoạn suy tim",
+        "04:38 Các cách phân loại khác",
+        "05:16 Thuật ngữ điều trị mới: FMT, AMT, GDIT",
+        "06:22 Giai đoạn A: phòng ngừa suy tim",
+        "07:38 Những nhóm nguy cơ đặc biệt",
+        "08:33 Giai đoạn B: điều trị rối loạn chức năng thất trái chưa triệu chứng",
+        "09:25 Năm bẫy khi áp dụng khái niệm mới",
+        "10:13 Ca 1: phân loại theo ESC 2026",
+        "11:04 Ca 2: sau nhồi máu, chưa triệu chứng",
+        "11:47 Sáu thông điệp của Phần 1"
+      ]
+    },
+    {
+      "ten": "Chẩn đoán suy tim mạn",
+      "youtube": "",
+      "phut": 13,
+      "tinh_huong": "Người béo phì BMI 39, phù chân, tĩnh mạch cổ nổi, NT-proBNP chỉ 180: loại trừ suy tim được không?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:34 Triệu chứng, dấu hiệu và phân độ NYHA",
+        "01:16 Thuật toán chẩn đoán suy tim mạn ngoại trú",
+        "02:06 Ngưỡng NT-proBNP: từ một ngưỡng sang theo tuổi",
+        "03:07 Những yếu tố làm sai lệch peptide lợi niệu",
+        "03:59 Xét nghiệm cho mọi người nghi suy tim",
+        "04:46 Tiêu chuẩn chẩn đoán HFrEF và HFpEF",
+        "05:43 Tiêu chuẩn siêu âm đơn giản hoá cho HFpEF",
+        "06:21 Khi chẩn đoán HFpEF còn chưa chắc chắn",
+        "06:59 Tìm nguyên nhân: hình ảnh đa phương thức",
+        "07:47 Thăm dò chuyên sâu tìm nguyên nhân điều trị được",
+        "08:42 Bệnh mạch vành và suy tim do rối loạn nhịp, dẫn truyền",
+        "09:40 Năm bẫy trong chẩn đoán suy tim",
+        "10:24 Ca 1: béo phì, khó thở, NT-proBNP thấp",
+        "11:04 Ca 2: LVEF bình thường, có chẩn đoán được không?",
+        "11:52 Sáu thông điệp của Phần 2"
+      ]
+    },
+    {
+      "ten": "Điều trị nội khoa suy tim mạn",
+      "youtube": "",
+      "phut": 12,
+      "tinh_huong": "Creatinine tăng 13% sau khi thêm ARNI + SGLT2-I, K 5,1, không triệu chứng: ngưng thuốc nào?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:37 Hai thuốc nền tảng cho mọi phân suất tống máu",
+        "01:37 Lợi tiểu quai và chất gắn kali",
+        "02:26 Bốn trụ cột cho HFrEF",
+        "03:54 Liều khởi đầu và liều đích",
+        "05:01 Tăng liều và duy trì: hai khuyến cáo mới",
+        "06:05 Điều trị nội khoa bổ sung cho HFrEF",
+        "07:25 Điều trị nội khoa HFpEF",
+        "08:23 LVEF cải thiện: thuyên giảm, không phải khỏi bệnh",
+        "09:16 Năm bẫy trong điều trị nội khoa",
+        "09:52 Ca 1: HFrEF mới, đang dùng hai thuốc",
+        "10:39 Ca 2: creatinine tăng sau khi tối ưu thuốc",
+        "11:22 Sáu thông điệp của Phần 3"
+      ]
+    },
+    {
+      "ten": "Thiết bị, can thiệp và bệnh đồng mắc tim mạch",
+      "youtube": "",
+      "phut": 13,
+      "tinh_huong": "Sau nhồi máu 5 tuần, LVEF 30%: cấy ICD ngay hay chờ?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:26 Vì sao cần máy phá rung cấy?",
+        "01:13 Chỉ định máy phá rung cấy",
+        "01:59 Thời điểm, thay máy và các loại máy khác",
+        "02:47 Chỉ định tái đồng bộ tim (CRT)",
+        "03:48 Bằng chứng, thời điểm và các thiết bị khác",
+        "04:53 Rung nhĩ trong suy tim: chống đông và kiểm soát tần số",
+        "05:47 Kiểm soát nhịp, cắt nút nhĩ thất và loạn nhịp thất",
+        "06:43 Hội chứng vành mạn ở người suy tim",
+        "07:49 Bệnh van tim ở người suy tim",
+        "09:13 Tăng huyết áp ở người suy tim",
+        "10:05 Năm bẫy về thiết bị và bệnh đồng mắc",
+        "10:41 Ca 1: sau nhồi máu, LVEF 30%",
+        "11:29 Ca 2: block nhánh trái QRS 160 ms",
+        "12:10 Sáu thông điệp của Phần 4"
+      ]
+    },
+    {
+      "ten": "Suy tim mất bù và sốc tim",
+      "youtube": "",
+      "phut": 15,
+      "tinh_huong": "Furosemide 80 mg tĩnh mạch, 2 giờ sau natri niệu 42 mmol/L: làm gì tiếp?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:38 Suy tim mất bù: định nghĩa và gánh nặng",
+        "01:23 Chẩn đoán suy tim mất bù",
+        "02:24 Bốn kiểu biểu hiện và nguyên nhân cấp CHAMPIT",
+        "03:24 Sốc tim: định nghĩa và phân độ SCAI",
+        "04:18 Ba giai đoạn xử trí trong viện",
+        "05:23 Oxy và hỗ trợ thông khí",
+        "06:11 Phác đồ giải sung huyết theo natri niệu",
+        "07:23 Khuyến cáo lợi tiểu và ức chế SGLT2 trong viện",
+        "08:42 Giãn mạch, tăng co bóp, vận mạch và opioid",
+        "09:46 Hỗ trợ tuần hoàn cơ học tạm thời",
+        "11:02 Mục tiêu giải sung huyết trước ra viện",
+        "11:59 Năm bẫy trong suy tim mất bù",
+        "12:37 Ca 1: đáp ứng lợi tiểu kém",
+        "13:29 Ca 2: sốc tim do nhồi máu có ST chênh lên",
+        "14:14 Sáu thông điệp của Phần 5"
+      ]
+    },
+    {
+      "ten": "Suy tim tiến triển, bệnh đồng mắc và tình huống đặc biệt",
+      "youtube": "",
+      "phut": 13,
+      "tinh_huong": "79 tuổi, “HFpEF” thành tim 17 mm, phẫu thuật ống cổ tay hai bên: điều trị đặc hiệu là gì?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:31 Suy tim tiến triển: định nghĩa và nhận diện sớm",
+        "01:34 Đánh giá và điều trị nội khoa suy tim tiến triển",
+        "02:34 Dụng cụ hỗ trợ thất trái và ghép tim",
+        "03:41 Béo phì và đái tháo đường",
+        "04:44 Bệnh thận mạn, thiếu sắt và thiếu máu",
+        "05:50 Phổi, giấc ngủ, tâm thần, suy yếu và các bệnh khác",
+        "06:59 Chăm sóc đa chuyên khoa, phục hồi và theo dõi",
+        "08:03 Thai kỳ, amyloid tim và viêm cơ tim",
+        "09:27 Năm bẫy của phần cuối",
+        "10:00 Ca 1: tái nhập viện liên tục",
+        "10:51 Ca 2: “HFpEF” thành tim dày",
+        "11:40 Sáu thông điệp của Phần 6",
+        "12:19 ESC 2026 Suy tim: sáu phần trong một slide"
+      ]
+    }
+  ]
+}
