@@ -1,0 +1,145 @@
+{
+  "ten_ngan": "SSC 2026",
+  "tieu_de": "Hướng dẫn quốc tế xử trí nhiễm khuẩn huyết và sốc nhiễm khuẩn – Surviving Sepsis Campaign 2026",
+  "chuyen_khoa": "hoisuc",
+  "nam": 2026,
+  "thu_tu": 5,
+  "an": false,
+  "nguon": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026 (SCCM/ESICM)",
+  "tom_tat": "Hướng dẫn Surviving Sepsis Campaign 2026 gồm 129 khuyến cáo. Loạt 5 bài đi từ định nghĩa Sepsis-3, sàng lọc và hồi sức giờ đầu, kháng sinh và kiểm soát ổ nhiễm, huyết động, hỗ trợ hô hấp, đến điều trị hỗ trợ, mục tiêu chăm sóc và phục hồi sau sepsis, kèm ôn tập toàn loạt ở phần cuối.",
+  "diem_chinh": [
+    "Sàng lọc: không dùng qSOFA đơn độc; ưu tiên NEWS, NEWS2, MEWS hoặc SIRS",
+    "Ít nhất 30 ml/kg dịch tinh thể trong 3 giờ đầu; vận mạch qua đường ngoại vi sớm, huyết áp trung bình mục tiêu 65 (60–65 ở người ≥ 65 tuổi)",
+    "Truyền kéo dài beta-lactam nay là khuyến cáo mạnh; khử khuẩn chọn lọc đường tiêu hoá là khuyến cáo mới",
+    "Bậc thang vận mạch norepinephrine → vasopressin → epinephrine; thuốc tăng co bóp chỉ thêm vào, không thay thế",
+    "Không có ARDS: thể tích khí lưu thông 6–8 ml/kg cân nặng lý tưởng; oxy dòng cao qua mũi là lựa chọn ban đầu khi P/F < 200",
+    "Hydrocortisone 200 mg/ngày cho sốc nhiễm khuẩn; rút dịch chủ động sau giai đoạn hồi sức cấp; không dùng vitamin C, IVIG, probiotic"
+  ],
+  "playlist": "",
+  "tai_lieu": [
+    {
+      "id": "ssc2026-ban-dich",
+      "ten": "Bản dịch tiếng Việt Hướng dẫn Surviving Sepsis Campaign 2026",
+      "loai": "pdf",
+      "link": "",
+      "ghi_chu": ""
+    }
+  ],
+  "phan": [
+    {
+      "ten": "Định nghĩa, sàng lọc và hồi sức ban đầu",
+      "youtube": "",
+      "phut": 14,
+      "tinh_huong": "Người bệnh tại khoa nội: qSOFA 1 điểm nhưng NEWS2 cao – có “loại trừ” được sepsis không?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:30 Nhiễm khuẩn huyết: ưu tiên y tế toàn cầu",
+        "00:56 Định nghĩa nhiễm khuẩn huyết và sốc nhiễm khuẩn",
+        "01:39 Bốn mức độ chắc chắn của chẩn đoán",
+        "02:09 Đọc các loại khuyến cáo",
+        "02:43 Chương trình cải thiện chất lượng và “code sepsis”",
+        "03:42 Công cụ sàng lọc: qSOFA không đủ một mình",
+        "04:34 Sepsis là chẩn đoán lâm sàng",
+        "05:10 Cấy máu: sớm nhất có thể, trước kháng sinh",
+        "06:12 Đồng hồ của những giờ đầu",
+        "06:53 Ít nhất 30 ml/kg dịch tinh thể trong 3 giờ đầu",
+        "07:58 30 ml/kg đổi ra lít",
+        "08:21 Khi nào bắt đầu vận mạch?",
+        "09:05 Vận mạch qua đường ngoại vi",
+        "09:44 Mục tiêu huyết áp trung bình",
+        "10:40 Năm bẫy của giờ đầu",
+        "11:15 Ca 1: viêm thận bể thận tại cấp cứu",
+        "12:05 Ca 2: sàng lọc tại khoa nội",
+        "12:48 Sáu thông điệp của Phần 1"
+      ]
+    },
+    {
+      "ten": "Kháng sinh và kiểm soát ổ nhiễm",
+      "youtube": "",
+      "phut": 13,
+      "tinh_huong": "Người cao tuổi lú lẫn, sốt, chưa rõ ổ nhiễm, huyết áp còn ổn: kháng sinh trong 1 giờ hay có thể chờ?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:28 Sớm, nhưng không bừa bãi",
+        "01:12 Khung thời gian dùng kháng sinh",
+        "01:58 Kháng sinh trên xe cứu thương và procalcitonin",
+        "02:44 Kiểm soát ổ nhiễm: trong vòng 6 giờ",
+        "03:40 Phủ vi khuẩn đa kháng: theo nguy cơ",
+        "04:35 Nấm và kỵ khí: không phủ thường quy",
+        "05:36 Mẫu giám sát và xét nghiệm nhanh tác nhân",
+        "06:15 Truyền kéo dài beta-lactam: nay là khuyến cáo mạnh",
+        "07:15 Tối ưu liều theo dược động học – dược lực học",
+        "07:53 Đánh giá lại mỗi ngày, xuống thang sớm",
+        "08:40 Thời gian điều trị: ngắn hơn là đủ",
+        "09:15 Khử khuẩn chọn lọc đường tiêu hoá: khuyến cáo mới",
+        "10:11 Năm bẫy trong dùng kháng sinh",
+        "10:42 Ca 1: lú lẫn ở người cao tuổi",
+        "11:29 Ca 2: viêm phúc mạc tại hồi sức",
+        "12:14 Sáu thông điệp của Phần 2"
+      ]
+    },
+    {
+      "ten": "Huyết động",
+      "youtube": "",
+      "phut": 12,
+      "tinh_huong": "Norepinephrine tăng từ 0,15 lên 0,35 µg/kg/phút, nâng chân thụ động không đáp ứng: truyền thêm dịch hay thêm thuốc gì?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:28 Huyết áp động mạch xâm lấn hay không xâm lấn?",
+        "01:22 Chọn loại dịch",
+        "02:16 Sau 30 ml/kg: tự do hay hạn chế dịch?",
+        "03:06 Dùng chỉ số động để hướng dẫn bù dịch",
+        "04:06 Lactate, thời gian đổ đầy mao mạch và cung lượng tim",
+        "05:05 Bậc thang vận mạch trong sốc nhiễm khuẩn",
+        "05:58 Vasopressin và angiotensin II: dữ liệu then chốt",
+        "06:40 Rối loạn chức năng tim và xanh methylene",
+        "07:34 Thuốc tăng co bóp: thêm vào, không thay thế",
+        "08:18 Midodrine và chẹn beta",
+        "08:57 Năm bẫy huyết động",
+        "09:29 Ca 1: norepinephrine đang tăng",
+        "10:17 Ca 2: tưới máu chưa cải thiện",
+        "11:02 Sáu thông điệp của Phần 3"
+      ]
+    },
+    {
+      "ten": "Hỗ trợ hô hấp",
+      "youtube": "",
+      "phut": 9,
+      "tinh_huong": "Vt 560 ml ở người 70 kg cân nặng lý tưởng, áp lực bình nguyên 32, P/F 110: chỉnh gì trước?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:36 Đo oxy hoá: SpO₂ hay khí máu động mạch?",
+        "01:32 Mục tiêu oxy: tự do hay bảo tồn?",
+        "02:36 Oxy dòng cao qua mũi là lựa chọn ban đầu",
+        "03:46 Nằm sấp khi tỉnh ở người chưa đặt nội khí quản",
+        "04:24 Thông khí bảo vệ phổi: thể tích và áp lực",
+        "05:20 ARDS trung bình – nặng: các bước tiếp theo",
+        "06:05 Năm bẫy hô hấp ở người bệnh sepsis",
+        "06:48 Ca 1: viêm phổi, oxy mặt nạ không đủ",
+        "07:40 Ca 2: ARDS trung bình – nặng đang thở máy",
+        "08:26 Sáu thông điệp của Phần 4"
+      ]
+    },
+    {
+      "ten": "Điều trị hỗ trợ, mục tiêu chăm sóc và phục hồi",
+      "youtube": "",
+      "phut": 12,
+      "tinh_huong": "Ngày 5, đã ngưng vận mạch, cân bằng dịch +7 lít, phù toàn thân: làm gì với dịch?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:33 Corticosteroid tĩnh mạch trong sốc nhiễm khuẩn",
+        "01:34 Những liệu pháp hỗ trợ không nên dùng",
+        "02:40 Dự phòng loét, probiotic và rút dịch chủ động",
+        "03:43 Chăm sóc nâng đỡ: các khuyến cáo giữ nguyên",
+        "04:38 Mục tiêu chăm sóc và chăm sóc giảm nhẹ",
+        "05:34 Chuyển tiếp chăm sóc: từ hồi sức về cộng đồng",
+        "06:42 Phục hồi dài hạn sau sepsis",
+        "07:59 Năm bẫy trong điều trị hỗ trợ và chăm sóc sau hồi sức",
+        "08:41 Ca 1: sốc nhiễm khuẩn còn phụ thuộc vận mạch",
+        "09:25 Ca 2: ngày thứ 5, đã cai vận mạch",
+        "10:12 Sáu thông điệp của Phần 5",
+        "10:50 Surviving Sepsis Campaign 2026: năm phần trong một slide"
+      ]
+    }
+  ]
+}

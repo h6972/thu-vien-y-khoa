@@ -13,6 +13,7 @@ const SPEC = {
   tieu: { ten: 'Tiêu hoá', mau: 'var(--tieu)' },
   hohap: { ten: 'Hô hấp', mau: 'var(--hohap)' },
   nhiem: { ten: 'Truyền nhiễm', mau: 'var(--nhiem)' },
+  hoisuc: { ten: 'Hồi sức cấp cứu', mau: 'var(--hoisuc)' },
 };
 const LOAI = { pdf: ['Bản dịch / PDF', 'PDF'], sotay: ['Sổ tay HTML', 'HTML'], slide: ['Slide', 'PPT'], bai: ['Bài viết', 'DOC'], video: ['Video', '▶'] };
 
