@@ -15,20 +15,18 @@
     "Không có ARDS: thể tích khí lưu thông 6–8 ml/kg cân nặng lý tưởng; oxy dòng cao qua mũi là lựa chọn ban đầu khi P/F < 200",
     "Hydrocortisone 200 mg/ngày cho sốc nhiễm khuẩn; rút dịch chủ động sau giai đoạn hồi sức cấp; không dùng vitamin C, IVIG, probiotic"
   ],
-  "playlist": "",
+  "playlist": "https://www.youtube.com/watch?v=8MBdYYiKCDM&list=PLcZEnJvJSUcY",
   "tai_lieu": [
     {
       "id": "ssc2026-ban-dich",
       "ten": "Bản dịch tiếng Việt Hướng dẫn Surviving Sepsis Campaign 2026",
-      "loai": "pdf",
-      "link": "",
-      "ghi_chu": ""
+      "loai": "pdf"
     }
   ],
   "phan": [
     {
       "ten": "Định nghĩa, sàng lọc và hồi sức ban đầu",
-      "youtube": "",
+      "youtube": "https://www.youtube.com/watch?v=8MBdYYiKCDM",
       "phut": 14,
       "tinh_huong": "Người bệnh tại khoa nội: qSOFA 1 điểm nhưng NEWS2 cao – có “loại trừ” được sepsis không?",
       "moc": [
@@ -55,7 +53,6 @@
     },
     {
       "ten": "Kháng sinh và kiểm soát ổ nhiễm",
-      "youtube": "",
       "phut": 13,
       "tinh_huong": "Người cao tuổi lú lẫn, sốt, chưa rõ ổ nhiễm, huyết áp còn ổn: kháng sinh trong 1 giờ hay có thể chờ?",
       "moc": [
@@ -80,7 +77,6 @@
     },
     {
       "ten": "Huyết động",
-      "youtube": "",
       "phut": 12,
       "tinh_huong": "Norepinephrine tăng từ 0,15 lên 0,35 µg/kg/phút, nâng chân thụ động không đáp ứng: truyền thêm dịch hay thêm thuốc gì?",
       "moc": [
@@ -103,7 +99,6 @@
     },
     {
       "ten": "Hỗ trợ hô hấp",
-      "youtube": "",
       "phut": 9,
       "tinh_huong": "Vt 560 ml ở người 70 kg cân nặng lý tưởng, áp lực bình nguyên 32, P/F 110: chỉnh gì trước?",
       "moc": [
@@ -122,7 +117,6 @@
     },
     {
       "ten": "Điều trị hỗ trợ, mục tiêu chăm sóc và phục hồi",
-      "youtube": "",
       "phut": 12,
       "tinh_huong": "Ngày 5, đã ngưng vận mạch, cân bằng dịch +7 lít, phù toàn thân: làm gì với dịch?",
       "moc": [
