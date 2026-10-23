@@ -55,7 +55,7 @@ const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': 
 const strip = s => String(s).normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd').replace(/Đ/g, 'D').toLowerCase();
 
 // ---------- khung trang ----------
-function page({ title, desc, path, body, nav }) {
+function page({ title, desc, path, body, nav, extra = '', script = '' }) {
   const full = title ? `${title} · ${site.ten}` : site.ten;
   const url = BASE + path;
   const navs = [['/', 'Trang chủ', 'home'], ['/thu-vien/', 'Thư viện', 'thuvien'], ['/gioi-thieu/', 'Giới thiệu', 'gioithieu']];
@@ -73,6 +73,7 @@ function page({ title, desc, path, body, nav }) {
 <meta property="og:description" content="${esc(desc || site.mo_ta)}">
 <meta property="og:url" content="${esc(url)}">
 <meta name="theme-color" content="#0b6b66">
+${extra}
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -91,6 +92,7 @@ function page({ title, desc, path, body, nav }) {
   ${socials()}
 </div></footer>
 <script src="/assets/app.js?v=${BUILD}" defer></script>
+${script ? `<script src="${script}?v=${BUILD}" defer></script>` : ''}
 </body>
 </html>`;
 }
@@ -155,10 +157,18 @@ ${moc}</article>`;
       ? `<a href="/tai/${esc(d.id)}/" target="_blank" rel="noopener">${info}<span class="go">Tải về<span class="count" data-count="${esc(d.id)}" hidden></span></span></a>`
       : `<div class="soon">${info}<span class="go">Sắp có</span></div>`;
   }).join('');
-  const gs = site.giscus || {};
-  const comments = gs.repo_id && gs.category_id
-    ? `<div class="comments" data-repo="${esc(gs.repo)}" data-repo-id="${esc(gs.repo_id)}" data-category="${esc(gs.category)}" data-category-id="${esc(gs.category_id)}"></div>`
-    : `<div class="comments-empty">Khung bình luận đang được thiết lập.</div>`;
+  const comments = `<div class="cmt" data-trang="${esc(t.slug)}">
+<p class="cmt-count" aria-live="polite"></p>
+<ol class="cmt-list"></ol>
+<form class="cmt-form" novalidate>
+<label for="cmt-ten-${t.slug}">Tên của bạn</label>
+<input id="cmt-ten-${t.slug}" name="ten" maxlength="60" autocomplete="name" placeholder="Ví dụ: BS. An – Hồi sức" required>
+<label for="cmt-nd-${t.slug}">Bình luận</label>
+<textarea id="cmt-nd-${t.slug}" name="noi_dung" rows="4" maxlength="2000" placeholder="Câu hỏi, góp ý hoặc kinh nghiệm thực hành của bạn" required></textarea>
+<div class="hp" aria-hidden="true"><label for="cmt-web-${t.slug}">Website</label><input id="cmt-web-${t.slug}" name="web" tabindex="-1" autocomplete="off"></div>
+<div class="row"><small class="cmt-note">Không cần đăng nhập. Bình luận hiển thị sau khi được duyệt.</small><button class="btn" type="submit">Gửi bình luận</button></div>
+<p class="cmt-msg" role="status" hidden></p>
+</form></div>`;
   const body = `<div class="stack" style="--c:${s.mau}">
 <div class="topic-head"><div class="meta"><span class="tag">${s.ten}</span><span class="num">${t.nam || ''} · ${t.phan.length} phần${t.tong_phut ? ` · ${t.tong_phut} phút` : ''}</span></div>
 <h1>${esc(t.tieu_de)}</h1><p class="lede">${esc(t.tom_tat)}</p>
@@ -167,7 +177,7 @@ ${t.diem_chinh.length ? `<section><h2>Điểm cần nhớ</h2><ul class="keys">$
 <section><h2>Video bài giảng</h2>${parts}</section>
 ${t.tai_lieu.length ? `<section id="tai-lieu"><h2>Tài liệu tải về</h2><div class="dl">${docs}</div></section>` : ''}
 <p class="notice">Nguồn: ${esc(t.nguon)}.</p>
-<section><h2>Thảo luận</h2>${comments}</section>
+<section id="binh-luan"><h2>Thảo luận</h2>${comments}</section>
 ${subscribe()}</div>`;
   return page({ title: t.ten_ngan, desc: t.tom_tat.slice(0, 160), path: `/${t.slug}/`, body });
 }
@@ -208,9 +218,18 @@ topics.forEach(t => put(`${t.slug}/index.html`, topicPage(t)));
 put('thu-vien/index.html', library());
 put('gioi-thieu/index.html', about);
 put('404.html', notFound);
+put('quan-tri/index.html', page({ title: 'Quản trị bình luận', path: '/quan-tri/', body: `<div class="stack adm">
+<h1>Quản trị bình luận</h1>
+<form id="adm-login" class="sub"><label class="sr" for="adm-pw">Mật khẩu quản trị</label><input id="adm-pw" type="password" autocomplete="current-password" placeholder="Mật khẩu quản trị" required><button class="btn" type="submit">Mở</button></form>
+<p class="sub-msg" id="adm-msg" role="status" hidden></p>
+<div id="adm-main" hidden>
+<div class="chips" role="tablist" id="adm-tabs"><button class="chip" data-tt="cho" aria-pressed="true">Chờ duyệt <span class="num"></span></button><button class="chip" data-tt="duyet" aria-pressed="false">Đã duyệt <span class="num"></span></button><button class="chip" data-tt="an" aria-pressed="false">Đã ẩn <span class="num"></span></button><button class="chip" id="adm-out" type="button">Đăng xuất</button></div>
+<ol class="cmt-list adm-list" id="adm-list"></ol>
+</div></div>`, extra: '<meta name="robots" content="noindex, nofollow">', script: '/assets/admin.js' }));
 mkdirSync(join(OUT, 'assets'), { recursive: true });
 copyFileSync(join(ROOT, 'src/style.css'), join(OUT, 'assets/style.css'));
 copyFileSync(join(ROOT, 'src/app.js'), join(OUT, 'assets/app.js'));
+copyFileSync(join(ROOT, 'src/admin.js'), join(OUT, 'assets/admin.js'));
 put('favicon.svg', `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 26"><rect x="1" y="1" width="24" height="24" rx="6" fill="#0b6b66"/><path d="M4 14h5l2-5 3 9 2-4h6" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></svg>`);
 
 // link tải: Cloudflare Function /tai/<id> đếm lượt rồi chuyển hướng; trang tĩnh dưới đây là dự phòng
@@ -221,6 +240,6 @@ Object.entries(dl).forEach(([id, link]) => put(`tai/${id}/index.html`, `<!doctyp
 
 const urls = ['/', '/thu-vien/', '/gioi-thieu/', ...topics.map(t => `/${t.slug}/`)];
 put('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.map(u => `<url><loc>${BASE}${u}</loc></url>`).join('')}</urlset>\n`);
-put('robots.txt', `User-agent: *\nDisallow: /tai/\nSitemap: ${BASE}/sitemap.xml\n`);
+put('robots.txt', `User-agent: *\nDisallow: /tai/\nDisallow: /quan-tri/\nSitemap: ${BASE}/sitemap.xml\n`);
 
 console.log(`Đã dựng ${topics.length} chuyên đề (${all.length - topics.length} đang ẩn), ${Object.keys(dl).length} link tải → dist/`);

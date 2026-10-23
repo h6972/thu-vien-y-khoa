@@ -30,13 +30,24 @@ Từ đây, mỗi lần nội dung trên GitHub thay đổi (Claude đẩy code,
 
 Số lượt tải hiện dưới nút "Tải về" khi tài liệu có ít nhất 1 lượt. Chưa làm bước này thì nút tải vẫn chạy bình thường, chỉ không đếm.
 
-## 3. Bật bình luận Giscus (~5 phút)
+## 3. Bật bình luận (không cần đăng nhập, ~5 phút)
 
-1. Vào repo trên GitHub → **Settings** → mục **Features** → tick **Discussions**.
-2. Tab **Discussions** của repo → biểu tượng bút chì cạnh "Categories" → **New category**: tên `Bình luận`, kiểu **Announcement** (chỉ anh tạo được chủ đề mới, người xem chỉ trả lời) → Create.
-3. Cài ứng dụng giscus: https://github.com/apps/giscus → **Install** → chọn **Only select repositories** → `thu-vien-y-khoa`.
-4. Vào https://giscus.app/vi → mục **Kho lưu trữ** nhập `h6972/thu-vien-y-khoa` → mục **Thể loại** chọn `Bình luận`.
-5. Kéo xuống phần mã, chép 2 giá trị `data-repo-id` và `data-category-id` → gửi cho Claude, hoặc tự dán vào trang quản trị (**Cài đặt chung → Bình luận Giscus**).
+Người xem chỉ gõ tên và nội dung; bình luận **chờ anh duyệt** mới hiện trên web.
+
+1. Cloudflare → **Storage & Databases** → **D1 SQL Database** → **Create** → đặt tên `binh-luan` → Create. (Không cần tạo bảng, web tự tạo.)
+2. Project Pages `thu-vien-y-khoa` → **Settings** → **Bindings** → **Add** → **D1 database**:
+   - Variable name: `DB` (viết hoa)
+   - D1 database: `binh-luan`
+3. Vẫn trong **Settings** → **Variables and Secrets** → **Add** → kiểu **Secret**:
+   - Variable name: `ADMIN_PASSWORD`
+   - Value: mật khẩu quản trị anh tự đặt (dài, khó đoán; không gửi cho ai, kể cả Claude)
+4. Tab **Deployments** → **Retry deployment** ở bản mới nhất.
+
+**Duyệt bình luận:** mở `thuvienykhoa.online/quan-tri/` → nhập mật khẩu → tab **Chờ duyệt**:
+- **Duyệt**: hiện lên web · **Ẩn**: gỡ khỏi web nhưng giữ lại · **Xoá**: xoá hẳn
+- **Trả lời**: trả lời hiện dưới bình luận với tên "Thư Viện Y Khoa Online" (lưu trả lời = tự duyệt luôn)
+
+Chống spam có sẵn: ô bẫy ẩn, chặn gửi quá nhanh, tối đa 5 bình luận/10 phút mỗi người.
 
 ## 4. Đăng ký email bằng Google Sheet (~5 phút)
 

@@ -81,8 +81,25 @@ section{display:flex;flex-direction:column;gap:14px;padding-top:32px}
 .dl .go{color:var(--accent);font-weight:600;font-size:.85rem;white-space:nowrap;text-align:right}
 .dl .soon .go{color:var(--muted)}
 .count{font-family:var(--mono);font-size:.75rem;color:var(--muted);display:block;font-weight:500}
-.comments{min-height:120px}
-.comments-empty{border:1px dashed var(--line);border-radius:10px;padding:18px;color:var(--muted);font-size:.9rem}
+.cmt{display:flex;flex-direction:column;gap:14px}
+.cmt-count{color:var(--muted);font-size:.9rem}
+.cmt-list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px}
+.cmt-item{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 14px;display:flex;flex-direction:column;gap:6px;min-width:0}
+.cmt-head{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+.cmt-head time{color:var(--muted);font-size:.78rem;font-family:var(--mono)}
+.cmt-body{white-space:pre-line;overflow-wrap:anywhere;font-size:.95rem}
+.cmt-reply{margin-top:4px;border-left:3px solid var(--accent);background:var(--accent-soft);border-radius:0 8px 8px 0;padding:8px 12px;display:flex;flex-direction:column;gap:4px}
+.cmt-badge{font-size:.7rem;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:var(--accent)}
+.cmt-form{display:flex;flex-direction:column;gap:8px;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px}
+.cmt-form label{font-size:.85rem;font-weight:600}
+.cmt-form input,.cmt-form textarea,.adm-reply textarea{width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink);font:inherit;resize:vertical}
+.cmt-note{color:var(--muted)}
+.cmt-msg{font-size:.88rem;color:var(--accent)}
+.btn[disabled]{opacity:.6;cursor:wait}
+.hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+.cmt-where{font-family:var(--mono);font-size:.78rem}
+.adm-reply{display:flex;flex-direction:column;gap:8px}
+.adm .chip .num{color:inherit;opacity:.75}
 form.sub{display:flex;gap:8px;flex-wrap:wrap}
 form.sub input{flex:1 1 220px;min-width:0;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink);font:inherit}
 .sub-msg{font-size:.88rem;color:var(--accent)}
