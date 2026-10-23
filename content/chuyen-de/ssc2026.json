@@ -20,7 +20,8 @@
     {
       "id": "ssc2026-ban-dich",
       "ten": "Bản dịch tiếng Việt Hướng dẫn Surviving Sepsis Campaign 2026",
-      "loai": "pdf"
+      "loai": "pdf",
+      "link": "https://ouo.io/A41MGO"
     }
   ],
   "phan": [
@@ -53,6 +54,7 @@
     },
     {
       "ten": "Kháng sinh và kiểm soát ổ nhiễm",
+      "youtube": "https://www.youtube.com/watch?v=0q42ei21gpc",
       "phut": 13,
       "tinh_huong": "Người cao tuổi lú lẫn, sốt, chưa rõ ổ nhiễm, huyết áp còn ổn: kháng sinh trong 1 giờ hay có thể chờ?",
       "moc": [
