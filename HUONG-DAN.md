@@ -67,7 +67,7 @@ Email đăng ký sẽ vào trang tính `DangKy`, tự bỏ qua email trùng.
 2. Chọn repo `h6972/thu-vien-y-khoa`, nhánh `main`.
 3. Menu trái có 2 mục:
    - **Chuyên đề**: mở từng chuyên đề để dán link YouTube, link Drive, sửa tóm tắt, mốc thời gian…
-   - **Cài đặt chung**: tên web, link mạng xã hội, Giscus, URL Apps Script.
+   - **Cài đặt chung**: tên web, link mạng xã hội, URL Apps Script.
 4. Sửa xong bấm **Save**. Cloudflare tự dựng lại web sau khoảng 1 phút.
 
 Lưu ý khi sửa:
