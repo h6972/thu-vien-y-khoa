@@ -2,7 +2,7 @@
 :root{
   --bg:#f3f6f7; --surface:#ffffff; --ink:#132229; --muted:#5a6b72; --line:#dbe3e6;
   --accent:#0b6b66; --accent-ink:#ffffff; --accent-soft:#e1f0ee;
-  --tim:#b8324a; --tieu:#b26a12; --hohap:#1f6aa5; --nhiem:#6d4bb0; --hoisuc:#a63d84;
+  --tim:#b8324a; --tieu:#b26a12; --hohap:#1f6aa5; --nhiem:#6d4bb0; --hoisuc:#a63d84; --noitiet:#4f7a1c;
   --display:"Newsreader",Georgia,"Times New Roman",serif;
   --body:"Be Vietnam Pro",system-ui,-apple-system,"Segoe UI",sans-serif;
   --mono:"JetBrains Mono",ui-monospace,Menlo,monospace;
@@ -11,7 +11,7 @@
 @media (prefers-color-scheme:dark){:root{
   --bg:#0f1719; --surface:#16211f; --ink:#e6eeef; --muted:#93a5aa; --line:#26353a;
   --accent:#4cc2b6; --accent-ink:#0f1719; --accent-soft:#163430;
-  --tim:#ec7389; --tieu:#e2a253; --hohap:#6fb0e6; --nhiem:#ad93ea; --hoisuc:#e383c4; color-scheme:dark}}
+  --tim:#ec7389; --tieu:#e2a253; --hohap:#6fb0e6; --nhiem:#ad93ea; --hoisuc:#e383c4; --noitiet:#a3d36a; color-scheme:dark}}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.6}

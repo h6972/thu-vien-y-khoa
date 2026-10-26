@@ -1,0 +1,84 @@
+{
+  "ten_ngan": "Cơn bão giáp 2026",
+  "tieu_de": "Xử trí cơn bão giáp – Đồng thuận ETA/BTA/SfE/WEDS 2026",
+  "chuyen_khoa": "noitiet",
+  "nam": 2026,
+  "thu_tu": 8,
+  "an": false,
+  "nguon": "Taylor P, Okosieme O, Effraimidis G, et al. Management of thyroid emergencies: joint consensus statement on management of thyroid storm. ETA/BTA/SfE/WEDS, 2026",
+  "tom_tat": "Đồng thuận 2026 của Hội Tuyến giáp châu Âu, Hội Tuyến giáp Anh, Hội Nội tiết học và Hội Nội tiết – Đái tháo đường xứ Wales về xử trí cơn bão giáp. Loạt 2 bài: nhận diện và chẩn đoán (Burch–Wartofsky, JTA/JES, bẫy chẩn đoán), rồi điều trị kèm liều thuốc, đúng thứ tự, theo dõi và xử trí kháng trị.",
+  "diem_chinh": [
+    "Cơn bão giáp là chẩn đoán lâm sàng: không chờ FT4 mới điều trị; tử vong 8 – hơn 30%",
+    "Thang Burch–Wartofsky: < 25 không nghĩ tới, 25–44 nghi ngờ, ≥ 45 gợi ý mạnh; tiêu chuẩn JTA/JES TS1, TS2",
+    "Hai bẫy ngược chiều: chẩn đoán quá mức ở người nhiễm khuẩn huyết tại hồi sức, bỏ sót cường giáp vô cảm ở người cao tuổi",
+    "Propranolol 60–80 mg mỗi 4 giờ hoặc esmolol truyền; cẩn trọng bệnh cơ tim nhiễm độc giáp vì chẹn beta có thể gây trụy",
+    "Thuốc kháng giáp liều cao, chọn PTU hay MMI/CBZ theo men gan; hydrocortisone 100 mg rồi 50 mg × 4",
+    "Iod (Lugol, SSKI) chỉ cho SAU thuốc kháng giáp ít nhất 1 giờ; kháng trị: thay huyết tương, cắt tuyến giáp cấp cứu, VA-ECMO"
+  ],
+  "playlist": "",
+  "tai_lieu": [
+    {
+      "id": "baogiap2026-ban-dich",
+      "ten": "Bản dịch tiếng Việt đồng thuận cơn bão giáp 2026",
+      "loai": "pdf",
+      "link": "",
+      "ghi_chu": ""
+    }
+  ],
+  "phan": [
+    {
+      "ten": "Nhận diện và chẩn đoán",
+      "youtube": "",
+      "phut": 14,
+      "tinh_huong": "Ông cụ 81 tuổi, mệt lả, sụt cân, lú lẫn, mạch 98, rung nhĩ mới, không sốt: có loại trừ được bệnh tuyến giáp?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:50 Hiếm gặp nhưng tử vong cao",
+        "01:39 Ai dễ vào cơn bão giáp?",
+        "02:15 Basedow: bướu giáp lan toả và lồi mắt",
+        "02:57 Những dấu hiệu chủ chốt",
+        "03:38 Rung nhĩ đáp ứng thất nhanh",
+        "04:09 Vì sao cùng mức hormone, người này vào cơn?",
+        "04:48 Burch–Wartofsky (1): nhiệt độ, thần kinh, tiêu hoá",
+        "05:26 Burch–Wartofsky (2): tim mạch và yếu tố thúc đẩy",
+        "06:04 Cộng điểm Burch–Wartofsky: một ví dụ",
+        "06:54 Tiêu chuẩn JTA/JES: TS1 và TS2",
+        "07:56 Burch–Wartofsky hay JTA/JES?",
+        "08:50 Hai bẫy: chẩn đoán quá mức và bỏ sót",
+        "09:27 Chẩn đoán phân biệt",
+        "10:20 Khi nào cần nhập hồi sức?",
+        "10:52 Tình huống 1: cộng điểm và quyết định",
+        "11:49 Tình huống 2: ông cụ mệt lả",
+        "12:37 Sáu thông điệp của Phần 1"
+      ]
+    },
+    {
+      "ten": "Điều trị, theo dõi và xử trí kháng trị",
+      "youtube": "",
+      "phut": 15,
+      "tinh_huong": "Bệnh nhân rung nhĩ 156, huyết áp 92/60, EF 25%: propranolol 80 mg uống hay esmolol truyền?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:37 Bốn mục tiêu điều trị song song",
+        "01:19 Biện pháp chung tại hồi sức",
+        "02:13 Vì sao tránh aspirin?",
+        "02:34 Chẹn beta: nền tảng điều trị",
+        "03:21 Phác đồ chẹn beta tĩnh mạch",
+        "03:55 Bệnh cơ tim nhiễm độc giáp: chẹn beta có thể gây trụy",
+        "04:56 Thuốc kháng giáp liều cao",
+        "05:57 PTU hay MMI/CBZ: nhìn vào gan",
+        "06:44 Cholestyramine, lithium và corticoid",
+        "07:32 Iod: đúng thuốc nhưng phải đúng lúc",
+        "08:18 Iod có hiệu quả với nguyên nhân nào?",
+        "08:57 Theo dõi đáp ứng: 24–72 giờ",
+        "09:52 Kháng trị: leo thang có cấu trúc",
+        "11:01 Thay huyết tương, phẫu thuật và ECMO",
+        "11:21 Perchlorate và acid iopanoic",
+        "11:56 Điều trị triệt để",
+        "12:16 Tình huống 1: rung nhĩ nhanh và EF thấp",
+        "13:11 Tình huống 2: iod sai thời điểm",
+        "14:01 Tám thông điệp của loạt bài"
+      ]
+    }
+  ]
+}

@@ -31,6 +31,7 @@ content:
             - { value: hohap, label: Hô hấp }
             - { value: nhiem, label: Truyền nhiễm }
             - { value: hoisuc, label: Hồi sức cấp cứu }
+            - { value: noitiet, label: Nội tiết }
       - name: nam
         label: Năm
         type: number
