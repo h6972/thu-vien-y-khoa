@@ -1,0 +1,145 @@
+{
+  "ten_ngan": "Thuyên tắc phổi 2026",
+  "tieu_de": "Hướng dẫn đánh giá và xử trí thuyên tắc phổi cấp ở người lớn – AHA/ACC 2026",
+  "chuyen_khoa": "tim",
+  "nam": 2026,
+  "thu_tu": 7,
+  "an": false,
+  "nguon": "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults",
+  "tom_tat": "Hướng dẫn thuyên tắc phổi cấp đầu tiên của AHA/ACC, xây dựng mới hoàn toàn cùng 8 hội chuyên ngành, với hệ phân loại lâm sàng 5 nhóm A–E thay cho massive/submassive. Loạt 5 bài đi từ chẩn đoán, phân loại và nơi điều trị, kháng đông và lọc tĩnh mạch chủ dưới, hồi sức huyết động và điều trị nâng cao, đến giai đoạn sau cấp và ôn tập 10 thông điệp.",
+  "diem_chinh": [
+    "D-dimer hiệu chỉnh theo tuổi (tuổi × 10 µg/L) và thuật toán YEARS; YEARS cho thai kỳ tránh 65% phim CT ở 3 tháng đầu",
+    "Hệ phân loại A–E kèm hệ số hô hấp R; nhóm D2 là sốc huyết áp bình thường (lactate > 2, tổn thương cơ quan)",
+    "Heparin trọng lượng phân tử thấp hơn không phân đoạn, DOAC hơn kháng vitamin K; hội chứng kháng phospholipid dùng kháng vitamin K",
+    "Nhóm C–E: tránh an thần sâu và thở máy (có hại); norepinephrine đầu tay, dịch ≤ 500 mL; VA-ECMO cho nhóm E2",
+    "Alteplase 100 mg/2 giờ, liều thấp 25–50 mg (2b); chống chỉ định tiêu sợi huyết thì lấy huyết khối cơ học hoặc phẫu thuật",
+    "Không yếu tố thúc đẩy: kháng đông kéo dài với nửa liều DOAC (1, A); không đặt lọc tĩnh mạch chủ dưới thường quy"
+  ],
+  "playlist": "",
+  "tai_lieu": [
+    {
+      "id": "pe2026-ban-dich",
+      "ten": "Bản dịch tiếng Việt Hướng dẫn thuyên tắc phổi AHA/ACC 2026",
+      "loai": "pdf",
+      "link": "",
+      "ghi_chu": ""
+    }
+  ],
+  "phan": [
+    {
+      "ten": "Điểm mới và chẩn đoán",
+      "youtube": "",
+      "phut": 16,
+      "tinh_huong": "Thai phụ 10 tuần, sưng chân trái, siêu âm nén có huyết khối: có bắt buộc chụp CT trước khi kháng đông?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:38 Mười thông điệp chính của hướng dẫn 2026",
+        "01:57 Đánh giá lâm sàng: nghĩ đến để không bỏ sót",
+        "02:53 Điện tâm đồ: gợi ý, không chẩn đoán",
+        "03:40 Ba công cụ ước tính xác suất lâm sàng",
+        "04:49 D-dimer hiệu chỉnh theo tuổi",
+        "05:52 Thuật toán YEARS và YEARS cho thai kỳ",
+        "07:03 Lưu đồ đánh giá nghi thuyên tắc phổi",
+        "07:49 Chọn phương tiện hình ảnh",
+        "08:55 Huyết khối trên CT mạch phổi",
+        "09:29 Xạ hình thông khí – tưới máu và siêu âm nén tĩnh mạch",
+        "10:00 Ba xét nghiệm không có lợi và một chỉ định chọn lọc",
+        "11:02 Báo cáo thất phải: bằng con số",
+        "12:33 Thất phải trên CT và siêu âm tim",
+        "13:09 Tình huống 1: D-dimer 620 ở người 72 tuổi",
+        "13:56 Tình huống 2: thai phụ 10 tuần, chân trái sưng",
+        "14:45 Sáu thông điệp của Phần 1"
+      ]
+    },
+    {
+      "ten": "Phân loại A–E và nơi điều trị",
+      "youtube": "",
+      "phut": 15,
+      "tinh_huong": "Nữ 46 tuổi, thuyên tắc phân thuỳ, sPESI 0, Hestia âm tính: nhập viện hay cho về?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:33 Từ ba nhóm đến năm nhóm",
+        "01:32 Nhóm A, B, C: chưa có suy tim phổi",
+        "02:51 Nhóm D và E: tiền suy và suy tim phổi",
+        "04:14 Hệ số hô hấp R: ghi thêm vào nhóm",
+        "04:56 Thang điểm độ nặng",
+        "06:37 Huyết động và dấu ấn sinh học",
+        "07:57 Hình ảnh thất phải và gánh huyết khối",
+        "09:08 Ngoại trú, hồi sức hay chuyển viện?",
+        "10:33 Đội phản ứng nhanh thuyên tắc phổi",
+        "11:23 Xử trí ban đầu theo nhóm A–E",
+        "12:10 Tình huống 1: xếp nhóm sau mổ",
+        "13:05 Tình huống 2: về nhà được không?",
+        "13:55 Sáu thông điệp của Phần 2"
+      ]
+    },
+    {
+      "ten": "Kháng đông và lọc tĩnh mạch chủ dưới",
+      "youtube": "",
+      "phut": 14,
+      "tinh_huong": "Nữ 76 tuổi, 56 kg, ClCr 42 mL/phút, muốn dùng edoxaban: phác đồ đúng là gì?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:43 Bốn khuyến cáo nền tảng",
+        "01:51 Liều kháng đông đường tiêm",
+        "03:11 Phác đồ kháng đông uống",
+        "04:22 Béo phì, kháng phospholipid, u não",
+        "05:32 Bệnh thận mạn và bệnh gan mạn",
+        "06:42 Thai kỳ và cho con bú",
+        "07:37 Chọn thuốc kháng đông: bốn câu hỏi",
+        "08:31 Kháng đông quanh thủ thuật và theo dõi anti-Xa",
+        "09:42 Lọc tĩnh mạch chủ dưới",
+        "10:02 Lọc tĩnh mạch chủ dưới: ai, loại nào, bao lâu",
+        "11:16 Tình huống 1: chọn thuốc và liều",
+        "12:06 Tình huống 2: ba kháng thể dương tính",
+        "12:53 Sáu thông điệp của Phần 3"
+      ]
+    },
+    {
+      "ten": "Hồi sức huyết động và điều trị nâng cao",
+      "youtube": "",
+      "phut": 15,
+      "tinh_huong": "Sốc do thuyên tắc phổi tại bệnh viện không có can thiệp mạch: chuyển viện ngay hay tiêu sợi huyết tại chỗ?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:31 Thuốc hỗ trợ huyết động",
+        "01:49 Oxy, an thần và đặt nội khí quản",
+        "02:51 ECMO tĩnh mạch – động mạch",
+        "03:35 ECMO tĩnh mạch – động mạch tại hồi sức",
+        "04:01 Điều trị nâng cao theo nhóm",
+        "04:55 Tiêu sợi huyết toàn thân: ai được lợi",
+        "06:30 Liều thuốc tiêu sợi huyết",
+        "07:59 Chống chỉ định tiêu sợi huyết",
+        "08:59 Tiêu sợi huyết qua ống thông và lấy huyết khối cơ học",
+        "10:24 Lấy huyết khối cơ học: trước và sau",
+        "10:41 FLAME và PEITHO: lợi ích và cái giá phải trả",
+        "11:31 Phẫu thuật lấy huyết khối và huyết khối di động trong tim",
+        "12:28 Huyết khối di động trong tim phải: trước và sau tiêu sợi huyết",
+        "12:51 Tình huống 1: D2R, mới mổ cột sống",
+        "13:41 Tình huống 2: E1 tại bệnh viện tuyến tỉnh",
+        "14:37 Sáu thông điệp của Phần 4"
+      ]
+    },
+    {
+      "ten": "Sau giai đoạn cấp và ôn tập",
+      "youtube": "",
+      "phut": 13,
+      "tinh_huong": "4 tháng sau thuyên tắc phổi, còn khó thở khi leo 1 tầng lầu: chụp lại CT hay làm gì?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:28 Kháng đông bao lâu: theo yếu tố nguy cơ",
+        "01:48 Thuốc và liều giai đoạn kéo dài",
+        "03:18 Nửa liều DOAC: RENOVE và API-CAT",
+        "04:03 Tái phát khi đang kháng đông",
+        "05:24 Lịch theo dõi sau thuyên tắc phổi",
+        "06:24 Ung thư, tăng đông, phụ nữ và du lịch",
+        "07:56 Còn khó thở sau 3 tháng",
+        "09:29 Đánh giá khó thở kéo dài sau thuyên tắc phổi",
+        "10:13 Bóc nội mạc động mạch phổi",
+        "10:37 Tình huống 1: không yếu tố thúc đẩy, 6 tháng",
+        "11:18 Tình huống 2: còn khó thở sau 4 tháng",
+        "11:59 Mười thông điệp của loạt bài"
+      ]
+    }
+  ]
+}
