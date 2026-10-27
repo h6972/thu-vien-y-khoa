@@ -15,20 +15,18 @@
     "Alteplase 100 mg/2 giờ, liều thấp 25–50 mg (2b); chống chỉ định tiêu sợi huyết thì lấy huyết khối cơ học hoặc phẫu thuật",
     "Không yếu tố thúc đẩy: kháng đông kéo dài với nửa liều DOAC (1, A); không đặt lọc tĩnh mạch chủ dưới thường quy"
   ],
-  "playlist": "",
+  "playlist": "https://www.youtube.com/playlist?list=PLA_55nLeJQSg",
   "tai_lieu": [
     {
       "id": "pe2026-ban-dich",
       "ten": "Bản dịch tiếng Việt Hướng dẫn thuyên tắc phổi AHA/ACC 2026",
-      "loai": "pdf",
-      "link": "",
-      "ghi_chu": ""
+      "loai": "pdf"
     }
   ],
   "phan": [
     {
       "ten": "Điểm mới và chẩn đoán",
-      "youtube": "",
+      "youtube": "https://www.youtube.com/watch?v=KvBoEVCmx-s&list=PLA_55nLeJQSg&index=2&t=58s",
       "phut": 16,
       "tinh_huong": "Thai phụ 10 tuần, sưng chân trái, siêu âm nén có huyết khối: có bắt buộc chụp CT trước khi kháng đông?",
       "moc": [
@@ -53,7 +51,7 @@
     },
     {
       "ten": "Phân loại A–E và nơi điều trị",
-      "youtube": "",
+      "youtube": "https://www.youtube.com/watch?v=Ku4g8AxRcXw&list=PLA_55nLeJQSg&index=1",
       "phut": 15,
       "tinh_huong": "Nữ 46 tuổi, thuyên tắc phân thuỳ, sPESI 0, Hestia âm tính: nhập viện hay cho về?",
       "moc": [
@@ -75,7 +73,6 @@
     },
     {
       "ten": "Kháng đông và lọc tĩnh mạch chủ dưới",
-      "youtube": "",
       "phut": 14,
       "tinh_huong": "Nữ 76 tuổi, 56 kg, ClCr 42 mL/phút, muốn dùng edoxaban: phác đồ đúng là gì?",
       "moc": [
@@ -97,7 +94,6 @@
     },
     {
       "ten": "Hồi sức huyết động và điều trị nâng cao",
-      "youtube": "",
       "phut": 15,
       "tinh_huong": "Sốc do thuyên tắc phổi tại bệnh viện không có can thiệp mạch: chuyển viện ngay hay tiêu sợi huyết tại chỗ?",
       "moc": [
@@ -122,7 +118,6 @@
     },
     {
       "ten": "Sau giai đoạn cấp và ôn tập",
-      "youtube": "",
       "phut": 13,
       "tinh_huong": "4 tháng sau thuyên tắc phổi, còn khó thở khi leo 1 tầng lầu: chụp lại CT hay làm gì?",
       "moc": [
