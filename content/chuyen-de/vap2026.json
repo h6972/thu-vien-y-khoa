@@ -1,0 +1,45 @@
+{
+  "ten_ngan": "Phòng ngừa VAP 2026",
+  "tieu_de": "Phòng ngừa viêm phổi liên quan thở máy – Cập nhật 2026",
+  "chuyen_khoa": "hoisuc",
+  "nam": 2026,
+  "thu_tu": 10,
+  "nguon": "Leone M, Marecal L, Bouglé A, Hraiech S, Martin-Loeches I. Ventilator-associated pneumonia prevention: Past, present, perspective. 2026 (tổng quan tường thuật)",
+  "tom_tat": "Bài giảng tổng hợp bài tổng quan 2026 về phòng ngừa viêm phổi liên quan thở máy (VAP): từ gói biện pháp truyền thống đến đánh giá lại từng can thiệp bằng thử nghiệm và phân tích gộp mới, đối chiếu khuyến cáo Surviving Sepsis 2026, và hướng phòng ngừa dựa trên cơ chế với biofilm ống nội khí quản, vi hệ phổi, trí tuệ nhân tạo.",
+  "diem_chinh": [
+    "Bỏ chlorhexidine chăm sóc răng miệng: không hiệu quả ở mọi nồng độ, thay bằng chải răng và nằm đầu cao",
+    "Hút dịch hạ thanh môn là biện pháp đường thở duy nhất giảm VAP nhất quán, nhưng còn ít được dùng",
+    "Kháng sinh dự phòng ngắn ngày giảm VAP sớm ở tổn thương não cấp, sau ngừng tim; amikacin khí dung 3 ngày giảm VAP đến ngày 28",
+    "SDD: Surviving Sepsis 2026 khuyến cáo có điều kiện, chỉ ở đơn vị tỷ lệ kháng thuốc thấp",
+    "Đào tạo điều dưỡng là biện pháp hệ thống hiệu quả nhất; không dùng probiotic thường quy",
+    "Biofilm ống nội khí quản là động lực chính gây VAP, mở đường cho ống nội khí quản thế hệ mới"
+  ],
+  "playlist": "",
+  "tai_lieu": [],
+  "phan": [
+    {
+      "ten": "Bài giảng",
+      "youtube": "",
+      "phut": 12,
+      "tinh_huong": "Hồi sức nhiều Klebsiella, Acinetobacter đa kháng: có nên áp dụng SDD thường quy cho mọi người bệnh sốc nhiễm khuẩn thở máy?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:47 Vì sao VAP vẫn là vấn đề lớn?",
+        "01:15 Ba giai đoạn của phòng ngừa VAP",
+        "01:43 Nền tảng cũ: giảm phơi nhiễm, chống vi hít",
+        "02:17 Đã đến lúc bỏ chlorhexidine",
+        "02:49 Kháng sinh dự phòng ngắn ngày: giảm VAP sớm",
+        "03:37 Phác đồ trong các thử nghiệm",
+        "04:29 SDD: bằng chứng nhiều nhất, tranh cãi cũng nhiều nhất",
+        "05:19 Tình huống 1: SDD ở hồi sức nhiều vi khuẩn đa kháng?",
+        "06:08 Bóng chèn và hút dịch hạ thanh môn",
+        "06:52 Vận động sớm và sức mạnh của hệ thống",
+        "07:23 Biofilm ống nội khí quản: động lực chính",
+        "08:05 Ống nội khí quản mới và vi hệ phổi",
+        "08:59 Trí tuệ nhân tạo và những câu hỏi còn bỏ ngỏ",
+        "09:45 Tình huống 2: hôn mê sau ngừng tim",
+        "10:33 Sáu thông điệp mang về"
+      ]
+    }
+  ]
+}
