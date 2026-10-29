@@ -20,7 +20,8 @@
     {
       "id": "pe2026-ban-dich",
       "ten": "Bản dịch tiếng Việt Hướng dẫn thuyên tắc phổi AHA/ACC 2026",
-      "loai": "pdf"
+      "loai": "pdf",
+      "link": "https://drive.google.com/open?id=1q_-uuKBxj0irjPBRx9bFaDs3wJ83Evyg&usp=drive_fs"
     }
   ],
   "phan": [
@@ -73,6 +74,7 @@
     },
     {
       "ten": "Kháng đông và lọc tĩnh mạch chủ dưới",
+      "youtube": "https://www.youtube.com/watch?v=t2GnwISzZwc",
       "phut": 14,
       "tinh_huong": "Nữ 76 tuổi, 56 kg, ClCr 42 mL/phút, muốn dùng edoxaban: phác đồ đúng là gì?",
       "moc": [
@@ -94,6 +96,7 @@
     },
     {
       "ten": "Hồi sức huyết động và điều trị nâng cao",
+      "youtube": "https://www.youtube.com/watch?v=ZeaRk9kKIs4",
       "phut": 15,
       "tinh_huong": "Sốc do thuyên tắc phổi tại bệnh viện không có can thiệp mạch: chuyển viện ngay hay tiêu sợi huyết tại chỗ?",
       "moc": [
