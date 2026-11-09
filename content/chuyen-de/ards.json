@@ -15,20 +15,18 @@
     "Nằm sấp ≥ 16 giờ khi P/F < 150 (PROSEVA: tử vong 16% so với 33%); liên hệ trung tâm ECMO sớm khi thất bại",
     "Dịch hạn chế khi hết sốc (FACTT); corticoid được gợi ý (ATS 2023, DEXA-ARDS: tử vong 21% so với 36%)"
   ],
-  "playlist": "",
+  "playlist": "https://youtube.com/playlist?list=PLTc25tbWqqBI&si=a4rG9WizsiR9HjrR",
   "tai_lieu": [
     {
       "id": "ards-tai-lieu",
       "ten": "Tài liệu tham khảo và tóm tắt ARDS chuyên sâu",
-      "loai": "bai",
-      "link": "",
-      "ghi_chu": ""
+      "loai": "bai"
     }
   ],
   "phan": [
     {
       "ten": "Định nghĩa toàn cầu 2024 và bệnh sinh",
-      "youtube": "",
+      "youtube": "https://www.youtube.com/watch?v=a8s1CSEBR-s&list=PLTc25tbWqqBI&index=2",
       "phut": 23,
       "tinh_huong": "Suy tim EF 35%, cân bằng dịch +4 lít, mờ hai phổi, P/F 150: có loại trừ được ARDS không?",
       "moc": [
@@ -62,7 +60,7 @@
     },
     {
       "ten": "Chẩn đoán, phân biệt và phân nhóm",
-      "youtube": "",
+      "youtube": "youtube.com/watch?v=kDPHy2H0X3U&list=PLTc25tbWqqBI&index=2&t=619s&pp=iAQB",
       "phut": 17,
       "tinh_huong": "Mờ hai phổi, P/F 120, không sốt, không hít sặc, Hb tụt 3 g/dL trong 24 giờ: có đang bỏ sót một bệnh giả ARDS?",
       "moc": [
@@ -93,7 +91,7 @@
     },
     {
       "ten": "Thở máy bảo vệ phổi",
-      "youtube": "",
+      "youtube": "youtube.com/watch?v=KcTe203ByLk&list=PLTc25tbWqqBI&index=3&t=3s&pp=iAQB",
       "phut": 18,
       "tinh_huong": "Vt 400 mL (6 mL/kg), Pplat 30, driving pressure 20, pH 7,36: bước điều chỉnh hợp lý nhất là gì?",
       "moc": [
@@ -122,7 +120,7 @@
     },
     {
       "ten": "PEEP và huy động phế nang",
-      "youtube": "",
+      "youtube": "https://www.youtube.com/watch?v=AL73dOJv6SU&list=PLTc25tbWqqBI&index=4&pp=iAQB",
       "phut": 14,
       "tinh_huong": "Sau hút đờm hở, SpO₂ tụt 82% và không hồi phục dù FiO₂ 1,0: xử trí thế nào?",
       "moc": [
@@ -147,7 +145,7 @@
     },
     {
       "ten": "Nằm sấp, giãn cơ, ECMO",
-      "youtube": "",
+      "youtube": "https://www.youtube.com/watch?v=XjKpUHhm5oE&list=PLTc25tbWqqBI&index=6",
       "phut": 16,
       "tinh_huong": "Đã nằm sấp, giãn cơ, FiO₂ 1,0, P/F 48 trong 4 giờ, bệnh viện chưa có ECMO: hướng xử trí đúng nhất?",
       "moc": [
@@ -174,7 +172,7 @@
     },
     {
       "ten": "Điều trị hỗ trợ, cập nhật mới và ôn tập",
-      "youtube": "",
+      "youtube": "https://www.youtube.com/watch?v=60PfzpnqlD4&list=PLTc25tbWqqBI&index=6&pp=iAQB",
       "phut": 14,
       "tinh_huong": "Đã hết sốc, cân bằng dịch +5 lít, P/F 170: lợi tiểu, corticoid, hay cả hai?",
       "moc": [
