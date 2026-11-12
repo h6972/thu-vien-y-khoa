@@ -1,0 +1,123 @@
+{
+  "ten_ngan": "Nhiễm khuẩn huyết – bệnh học",
+  "tieu_de": "Nhiễm khuẩn huyết và sốc nhiễm khuẩn – bệnh học: định nghĩa, bệnh sinh, lâm sàng và chẩn đoán phân biệt",
+  "chuyen_khoa": "hoisuc",
+  "nam": 2026,
+  "thu_tu": 11,
+  "an": false,
+  "nguon": "Singer M, et al. Sepsis-3. JAMA 2016 · Seymour 2016 · Shankar-Hari 2016 · Ranzani OT, et al. SOFA-2. JAMA 2025 · Surviving Sepsis Campaign 2026 · Mandell 10e (2026), ch. 75 · Meyer & Prescott, NEJM 2024 · Rudd, Lancet 2020 · Hall 5e, ch. 31 · Bộ Y tế 2015",
+  "tom_tat": "Loạt 4 bài bệnh học về nhiễm khuẩn huyết và sốc nhiễm khuẩn, bổ sung cho loạt Surviving Sepsis Campaign 2026 (điều trị). Đi từ lịch sử ba lần định nghĩa và thang SOFA-2, bệnh sinh miễn dịch – huyết khối – nội mô minh hoạ bằng clip và ảnh y khoa thật, đến lâm sàng, lactate, huyết động, chẩn đoán phân biệt sốc và một ca lâm sàng từ cấp cứu vào hồi sức.",
+  "diem_chinh": [
+    "Sepsis-3: rối loạn chức năng cơ quan đe doạ tính mạng do đáp ứng mất điều hoà với nhiễm khuẩn; SOFA tăng ≥ 2 gắn với tử vong nội viện > 10%",
+    "Sốc nhiễm khuẩn cần đủ vận mạch giữ MAP ≥ 65 mmHg và lactate > 2 mmol/L sau bù đủ dịch; tử vong > 40%, “sốc kín” vẫn 25,7%",
+    "qSOFA chỉ báo nguy cơ, không dùng để chẩn đoán; SSC 2026 ưu tiên NEWS, NEWS2, MEWS hoặc SIRS để sàng lọc",
+    "SOFA-2 (2025) chấm theo hỗ trợ cơ quan hiện đại: hỗ trợ hô hấp nâng cao, tổng norepinephrine + epinephrine, nước tiểu, tiểu cầu 80/50",
+    "Tăng viêm và ức chế miễn dịch diễn ra song song; miễn dịch – huyết khối và glycocalyx bị phá vỡ gây DIC và rò mao mạch",
+    "Lactate là chỉ dấu, không đo trực tiếp tưới máu; sốt kèm tụt huyết áp chưa chắc là sốc nhiễm khuẩn – dùng bốn câu hỏi và siêu âm tại giường"
+  ],
+  "playlist": "",
+  "tai_lieu": [
+    {
+      "id": "sepsis-bh-tai-lieu",
+      "ten": "Tài liệu tham khảo và tóm tắt nhiễm khuẩn huyết – bệnh học",
+      "loai": "bai"
+    }
+  ],
+  "phan": [
+    {
+      "ten": "Định nghĩa, lịch sử và SOFA-2",
+      "youtube": "",
+      "phut": 15,
+      "tinh_huong": "Viêm thận bể thận, huyết áp 118/70, tỉnh táo, qSOFA = 0: đã đủ tiêu chuẩn nhiễm khuẩn huyết chưa?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:35 Một bệnh cảnh, nhiều gương mặt",
+        "01:18 Gánh nặng toàn cầu: gần 1 trong 5 ca tử vong",
+        "02:17 35 năm định nghĩa lại một hội chứng",
+        "03:32 Thử chấm SIRS: một ca cúm thông thường",
+        "04:27 Định nghĩa hiện hành (Sepsis-3, 2016)",
+        "05:23 SOFA hay SIRS? Dữ liệu 1,3 triệu lượt khám",
+        "06:15 qSOFA: báo nguy cơ, không để chẩn đoán",
+        "07:09 Sốc nhiễm khuẩn: phải đủ cả hai điều kiện",
+        "07:58 Lactate và tử vong trong cơ sở dữ liệu 18.840 người bệnh",
+        "08:56 Bảng SOFA-2: não, hô hấp, tim mạch",
+        "10:10 Bảng SOFA-2: gan, thận, cầm máu",
+        "11:00 SOFA-2: điều gì mới, giá trị tiên lượng ra sao",
+        "11:54 Tính SOFA-2: viêm phổi, sốc, vào hồi sức",
+        "12:54 Tình huống: viêm thận bể thận",
+        "13:53 Sáu thông điệp của Phần 1"
+      ]
+    },
+    {
+      "ten": "Bệnh sinh – từ viêm đến suy cơ quan",
+      "youtube": "",
+      "phut": 14,
+      "tinh_huong": "Ngày 12 hồi sức: sốt lại, cấy máu mọc Candida, lympho 0,4 G/L, CMV dương tính – cơ chế nào?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:47 Tuyến phòng thủ đầu tiên: bạch cầu trung tính",
+        "01:43 Từ nhận diện đến cytokine",
+        "02:35 Vòng xoắn tự duy trì",
+        "03:35 Ba cơ chế đẩy về tăng đông",
+        "04:54 Bẫy ngoại bào bạch cầu trung tính (NET)",
+        "05:52 Khi miễn dịch – huyết khối hiện ra ngoài da",
+        "06:52 Nội mô: hàng rào và cửa ngõ",
+        "07:32 Từ glycocalyx bị bóc đến tụt huyết áp",
+        "08:37 Mặt ít được nói tới: ức chế miễn dịch",
+        "10:01 Tăng viêm và ức chế miễn dịch: song song",
+        "11:03 Nối cơ chế với giường bệnh",
+        "11:50 Tình huống: ngày 12 trong hồi sức",
+        "12:46 Sáu thông điệp của Phần 2"
+      ]
+    },
+    {
+      "ten": "Lâm sàng, huyết động và chẩn đoán phân biệt sốc",
+      "youtube": "",
+      "phut": 15,
+      "tinh_huong": "Ngày 3 sau thay khớp háng: sốt 38,2 °C, HA 84/56, tĩnh mạch cổ nổi, phổi trong – sốc gì?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:34 Ổ nhiễm: phổi đứng đầu",
+        "01:19 Ổ nhiễm hô hấp trên X-quang và siêu âm",
+        "01:55 Những ổ nhiễm cần tìm và kiểm soát",
+        "02:33 Biểu hiện: thay đổi và không đặc hiệu",
+        "03:26 Nhìn da để đánh giá tưới máu",
+        "04:24 Xét nghiệm cho mọi người bệnh nghi nhiễm khuẩn huyết",
+        "05:26 Cấy máu: lấy sớm, đúng cách, trước kháng sinh",
+        "06:27 Huyết động sốc nhiễm khuẩn: hai thành phần",
+        "07:28 Lactate tăng: không chỉ do thiếu oxy",
+        "08:26 Rối loạn chức năng từng cơ quan",
+        "09:42 Khi phổi là cơ quan suy",
+        "10:19 Sốc nhiễm khuẩn hay sốc khác?",
+        "11:16 Tĩnh mạch cổ nổi, phổi trong: nghĩ tới tắc nghẽn",
+        "12:12 Hướng dẫn Bộ Y tế 2015 và hiện nay",
+        "13:29 Tình huống: sốt và tụt áp sau mổ",
+        "14:20 Sáu thông điệp của Phần 3"
+      ]
+    },
+    {
+      "ten": "Ca lâm sàng – từ cấp cứu vào hồi sức",
+      "youtube": "",
+      "phut": 12,
+      "tinh_huong": "Nam 58 tuổi, viêm phổi, HA 82/45, lactate 4,6: ba điểm quyết định trong 6 giờ đầu",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:35 Sinh hiệu lúc tiếp nhận",
+        "01:23 Hình ảnh tại khoa cấp cứu",
+        "01:53 Kết quả xét nghiệm ban đầu",
+        "02:25 Mức chắc chắn và kháng sinh",
+        "03:23 Hồi sức huyết động giờ đầu",
+        "04:17 Giờ thứ 3–6 tại hồi sức",
+        "05:15 SOFA-2 lúc vào hồi sức",
+        "05:48 Diễn tiến 7 ngày",
+        "06:28 Thủ phạm: phế cầu",
+        "06:55 Năm bài học từ ca bệnh",
+        "07:25 Một hội chứng, nhiều kiểu hình",
+        "08:23 Cùng một gói điều trị, khác bối cảnh",
+        "08:55 Những câu hỏi còn bỏ ngỏ",
+        "09:59 Sống sót chưa phải là hồi phục",
+        "10:51 Bảy thông điệp của cả loạt bài"
+      ]
+    }
+  ]
+}
