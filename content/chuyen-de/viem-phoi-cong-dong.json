@@ -1,0 +1,134 @@
+{
+  "ten_ngan": "Viêm phổi cộng đồng",
+  "tieu_de": "Viêm phổi mắc phải cộng đồng 2026: vi sinh Việt Nam, chẩn đoán, kháng sinh, corticoid và ca lâm sàng hồi sức",
+  "chuyen_khoa": "hohap",
+  "nam": 2026,
+  "thu_tu": 13,
+  "an": false,
+  "nguon": "Jones BE, et al. ATS 2025 · Metlay JP, et al. ATS/IDSA 2019 · Martin-Loeches I, et al. ERS/ESICM/ESCMID/ALAT 2023 · Chaudhuri D, et al. SCCM 2024 · NICE NG250 (2025) · Hội Hô hấp Việt Nam 2025 · Bộ Y tế 2020 · Mandell LA, et al. IDSA/ATS 2007 · CAPE COD, ESCAPe, REMAP-CAP, SONIA, PTC, CAP-START, Garin, ACCESS, ProACT, MULTI-CAP",
+  "tom_tat": "Loạt 5 bài bệnh học về viêm phổi mắc phải cộng đồng, cập nhật theo ATS 2025, ATS/IDSA 2019, ERS/ESICM 2023, NICE 2025 và Hội Hô hấp Việt Nam 2025. Đi từ dịch tễ, bệnh sinh và dữ liệu vi khuẩn tại Việt Nam, qua chẩn đoán (siêu âm phổi, vi sinh, procalcitonin) và phân tầng độ nặng, đến kháng sinh kinh nghiệm kèm liều, thời gian kháng sinh và corticoid; kết thúc bằng một ca viêm phổi nặng tại hồi sức.",
+  "diem_chinh": [
+    "Phế cầu tại Việt Nam nhạy penicillin tiêm 86,9% nhưng kháng macrolid trên 90%: không dùng macrolid đơn trị",
+    "Siêu âm phổi có thể thay X-quang ngực khi đủ điều kiện (ATS 2025, khuyến cáo có điều kiện)",
+    "Procalcitonin không quyết định khởi động kháng sinh (ProACT: 4,2 so với 4,3 ngày kháng sinh)",
+    "Phủ MRSA, P. aeruginosa theo yếu tố nguy cơ đã xác định, kèm lấy mẫu để xuống thang",
+    "Đã ổn định lâm sàng: kháng sinh tối thiểu 3 ngày ở viêm phổi không nặng (PTC, ATS 2025)",
+    "Corticoid: CAPE COD giảm tử vong (6,2% so với 11,9%), REMAP-CAP không có lợi; hydrocortison cho viêm phổi nặng, sớm, không do cúm"
+  ],
+  "playlist": "",
+  "tai_lieu": [
+    {
+      "id": "viem-phoi-cong-dong-chuyen-de",
+      "ten": "Chuyên đề tự học viêm phổi mắc phải cộng đồng (Word/PDF)",
+      "loai": "bai"
+    }
+  ],
+  "phan": [
+    {
+      "ten": "Dịch tễ, bệnh sinh và vi sinh tại Việt Nam",
+      "youtube": "",
+      "phut": 13,
+      "tinh_huong": "Nam 55 tuổi, khoẻ mạnh, viêm phổi thuỳ, CURB-65 = 0, điều trị ngoại trú tại Việt Nam: azithromycin đơn trị có phù hợp?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:38 Cùng một chẩn đoán, hai mức độ",
+        "01:15 Viêm phổi mắc phải cộng đồng là gì?",
+        "01:58 Gánh nặng toàn cầu",
+        "02:45 Viêm phổi tại Việt Nam",
+        "03:19 Ba mươi năm thay đổi thực hành",
+        "04:14 Từ hít vi lượng đến suy cơ quan",
+        "05:19 Bạch cầu đa nhân: vũ khí hai lưỡi",
+        "05:54 Không chỉ một con đường tổn thương",
+        "06:35 Những tác nhân thường gặp",
+        "07:14 Tác nhân theo nơi điều trị",
+        "07:46 Vi khuẩn gây viêm phổi tại Việt Nam",
+        "08:45 Phế cầu và H. influenzae tại Việt Nam",
+        "09:30 Đừng quên Burkholderia pseudomallei",
+        "10:05 Ai có nguy cơ vi khuẩn kháng thuốc?",
+        "10:58 Tình huống: macrolid đơn trị?",
+        "11:41 Phần 1 – điều cần nhớ"
+      ]
+    },
+    {
+      "ten": "Chẩn đoán và phân tầng độ nặng",
+      "youtube": "",
+      "phut": 9,
+      "tinh_huong": "Nữ 62 tuổi, thở 31 lần/phút, PaO₂/FiO₂ 230, thâm nhiễm hai thuỳ, chưa cần vận mạch: điều trị ở đâu?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:26 Hình ảnh: bằng chứng của viêm phế nang",
+        "01:07 Siêu âm phổi: đông đặc và khí ảnh động",
+        "01:51 Siêu âm phổi: điều kiện để thay X-quang",
+        "02:31 Xét nghiệm vi sinh: ai cần, cần gì?",
+        "03:20 Bệnh phẩm thật: chai cấy máu và đàm",
+        "03:46 Procalcitonin không quyết định khởi động kháng sinh",
+        "04:40 Tiêu chuẩn viêm phổi nặng IDSA/ATS 2007",
+        "05:29 Tính CURB-65: một ca minh hoạ",
+        "06:12 CURB-65, PSI, SMART-COP: dự báo điều gì?",
+        "07:29 Tình huống: điều trị ở đâu?",
+        "08:17 Phần 2 – điều cần nhớ"
+      ]
+    },
+    {
+      "ten": "Kháng sinh kinh nghiệm",
+      "youtube": "",
+      "phut": 13,
+      "tinh_huong": "Nam 68 tuổi, giãn phế quản, đờm cấy P. aeruginosa 4 tháng trước, nay viêm phổi không nặng: phác đồ nào?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:36 Bốn nguyên tắc trước khi kê kháng sinh",
+        "01:21 Chọn phác đồ: ba câu hỏi",
+        "02:20 Ngoại trú: ba hướng dẫn, ba cách viết",
+        "03:26 Vì sao không dùng macrolid đơn trị ở Việt Nam?",
+        "04:11 Nội trú và hồi sức: phác đồ và liều",
+        "05:27 Có cần macrolid? Ba thử nghiệm",
+        "06:43 Khi nào phủ MRSA và P. aeruginosa?",
+        "07:53 Lấy mẫu trước kháng sinh – để xuống thang",
+        "08:29 Xét nghiệm virus dương tính: có bỏ kháng sinh?",
+        "09:09 Viêm phổi do cúm: oseltamivir",
+        "09:55 Tình huống: phủ trực khuẩn mủ xanh?",
+        "10:49 Năm bẫy khi chọn kháng sinh",
+        "11:36 Phần 3 – điều cần nhớ"
+      ]
+    },
+    {
+      "ten": "Thời gian kháng sinh và corticoid",
+      "youtube": "",
+      "phut": 10,
+      "tinh_huong": "Nữ 66 tuổi, viêm phổi không nặng, ngày 3 đã ổn định, cấy máu âm tính: ngừng kháng sinh được không?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:29 Ổn định lâm sàng: phải đạt tất cả",
+        "01:10 PTC: ngừng β-lactam ở ngày 3",
+        "01:55 Thời gian kháng sinh: 2019 và 2025",
+        "02:39 Khi nào không rút ngắn kháng sinh?",
+        "03:19 Áp xe phổi: không phải ca để rút ngắn",
+        "03:40 Corticoid trong CAP nặng: bốn thử nghiệm",
+        "04:51 Vì sao kết quả trái chiều?",
+        "05:37 Sáu hội, sáu cách nói về corticoid",
+        "06:44 Áp dụng: ai được dùng corticoid?",
+        "07:40 Oxy dòng cao qua mũi trước khi đặt nội khí quản",
+        "08:14 Tình huống: ngừng kháng sinh ngày 3?",
+        "09:07 Phần 4 – điều cần nhớ"
+      ]
+    },
+    {
+      "ten": "Ca lâm sàng hồi sức và tổng kết",
+      "youtube": "",
+      "phut": 7,
+      "tinh_huong": "Nữ 71 tuổi, lú lẫn, PaO₂/FiO₂ 180, CRP 280: phân tầng, kháng sinh và corticoid thế nào?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:29 Sinh hiệu lúc tiếp nhận",
+        "00:59 Xét nghiệm và hình ảnh ban đầu",
+        "01:23 Siêu âm phổi tại giường",
+        "01:45 Phân tầng và nơi điều trị",
+        "02:31 Kháng sinh kinh nghiệm",
+        "03:14 Có dùng corticoid?",
+        "04:13 Diễn tiến tại hồi sức",
+        "04:54 Nếu không đáp ứng sau 72 giờ?",
+        "05:41 Bảy thông điệp của loạt bài"
+      ]
+    }
+  ]
+}

@@ -2,8 +2,9 @@
 // Không phụ thuộc thư viện ngoài. Nội dung lấy từ content/site.json và content/chuyen-de/*.json
 import { readFileSync, writeFileSync, mkdirSync, readdirSync, rmSync, copyFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
+import { fileURLToPath } from 'node:url';
 
-const ROOT = dirname(new URL(import.meta.url).pathname);
+const ROOT = dirname(fileURLToPath(import.meta.url));
 const OUT = join(ROOT, 'dist');
 const site = JSON.parse(readFileSync(join(ROOT, 'content/site.json'), 'utf8'));
 const BASE = (site.url || '').replace(/\/$/, '');
