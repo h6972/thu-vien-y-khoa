@@ -1,0 +1,112 @@
+{
+  "ten_ngan": "Toan chuyển hoá",
+  "tieu_de": "Toan chuyển hoá trong hồi sức cấp cứu: đọc khí máu, nguyên nhân, điều trị và natri bicarbonat",
+  "chuyen_khoa": "hoisuc",
+  "nam": 2026,
+  "thu_tu": 12,
+  "an": false,
+  "nguon": "Jung B, et al. SRLF/SFMU. Ann Intensive Care 2019 · Jaber S, et al. BICAR-ICU. Lancet 2018 · Jung B, et al. BICARICU-2. JAMA 2025 · Umpierrez GE, et al. Hyperglycemic crises consensus. Diabetes Care 2024 · AHA 2025 Part 9–10 · ERC 2025 ALS · Lavonas EJ, et al. AHA 2023 ngộ độc · Jung B, et al. CHEST Crit Care 2026 · SMART, BaSICS, PLUS · Marino 5e · Oh's 2026 · Textbook of Critical Care 8e · Dược thư Quốc gia 2018 · Bộ Y tế 2015",
+  "tom_tat": "Loạt 4 bài về toan chuyển hoá trong hồi sức cấp cứu, bám theo hướng dẫn SRLF/SFMU 2019 và hai thử nghiệm BICAR-ICU, BICARICU-2. Đi từ 7 bước đọc khí máu, nguyên nhân và điều trị chung (thở máy, lọc máu, chất đệm), đến một phần riêng về natri bicarbonat: chế phẩm tại Việt Nam, cách tính liều, đường truyền, tương kỵ và chỉ định theo từng tình huống; kết thúc bằng ba ca lâm sàng.",
+  "diem_chinh": [
+    "Khí máu động mạch để có PaCO₂ đúng; PaCO₂ dự kiến = 1,5 × HCO₃ + 8 ± 2 (Winter)",
+    "Luôn dùng khoảng trống anion hiệu chỉnh albumin (R1.3, GRADE 2+); khoảng trống thẩm thấu bình thường không loại trừ rượu độc",
+    "Thở máy ở toan nặng: tăng tần số tới 35 lần/phút, Vt tới 8 mL/kg, đích pH ≥ 7,15 (R3.14)",
+    "Natri bicarbonat 4,2% 125–250 mL mỗi lần, đích pH ≥ 7,30, tối đa 1000 mL/24 giờ ở toan nặng kèm tổn thương thận cấp (R3.6, GRADE 2+)",
+    "BICARICU-2 (2025): không giảm tử vong ngày 90 (62,1% so với 61,7%) nhưng giảm lọc máu (35% so với 50%)",
+    "Không dùng thường quy trong nhiễm toan ceton (chỉ xem xét khi pH < 7,0) và ngừng tim; khuyến cáo mạnh trong ngộ độc thuốc chống trầm cảm ba vòng"
+  ],
+  "playlist": "",
+  "tai_lieu": [
+    {
+      "id": "toan-ch-tai-lieu",
+      "ten": "Tài liệu tham khảo và tóm tắt toan chuyển hoá",
+      "loai": "bai"
+    }
+  ],
+  "phan": [
+    {
+      "ten": "Đọc khí máu toan chuyển hoá theo 7 bước",
+      "youtube": "",
+      "phut": 12,
+      "tinh_huong": "pH 7,12, PaCO₂ 24, HCO₃ 8, albumin 25 g/L: phổi đã bù đủ chưa?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:33 Toan máu nặng ở hồi sức: không hiếm, rất nặng",
+        "01:17 Toan chuyển hoá là gì?",
+        "02:03 Từ Henderson–Hasselbalch đến BICARICU-2",
+        "03:11 Ba tuyến giữ pH",
+        "03:56 Toan máu làm gì với cơ thể?",
+        "04:42 Đọc khí máu toan chuyển hoá: 7 bước",
+        "05:25 Bước 1: dùng xét nghiệm nào cho đúng?",
+        "06:24 Bước 2: phổi đã bù đủ chưa?",
+        "07:04 Bước 3: khoảng trống anion phải hiệu chỉnh albumin",
+        "08:01 Bước 4–6: delta, thẩm thấu, anion niệu",
+        "09:19 Bốn cái bẫy khi đọc khí máu",
+        "10:03 Tình huống: đọc một khí máu",
+        "11:03 Sáu thông điệp của Phần 1"
+      ]
+    },
+    {
+      "ten": "Nguyên nhân và điều trị chung",
+      "youtube": "",
+      "phut": 10,
+      "tinh_huong": "Uống rượu tự nấu, nhìn mờ, khoảng trống thẩm thấu 32, creatinin bình thường: có cần lọc máu?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:27 Nguyên nhân theo khoảng trống anion",
+        "01:24 Toan lactic: không chỉ là thiếu oxy",
+        "02:17 Ceton, rượu độc, pyroglutamat, toan ống thận",
+        "03:17 NaCl 0,9% hay dịch cân bằng?",
+        "03:57 Điều trị nguyên nhân là chính",
+        "05:03 Thở máy ở người toan chuyển hoá nặng",
+        "05:59 Khi nào lọc máu vì toan?",
+        "07:12 Ngoài natri bicarbonat: THAM, carbicarb, natri lactat",
+        "07:56 Tình huống: uống rượu tự nấu, nhìn mờ",
+        "08:46 Sáu thông điệp của Phần 2"
+      ]
+    },
+    {
+      "ten": "Natri bicarbonat – dùng khi nào, dùng thế nào",
+      "youtube": "",
+      "phut": 15,
+      "tinh_huong": "Nhiễm toan ceton pH 6,92: có cho bicarbonat không, liều nào?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:35 Cơ chế và cái giá phải trả",
+        "01:25 Chế phẩm và quy đổi",
+        "02:27 Bốn cách tính liều",
+        "03:36 1 mmol/kg bằng bao nhiêu mL?",
+        "04:22 Phác đồ kiểu BICAR-ICU tại hồi sức",
+        "05:26 Đường truyền, tốc độ, tương kỵ, theo dõi",
+        "06:38 BICAR-ICU và BICARICU-2: kết quả chính",
+        "07:46 Cẩn thận khi trích dẫn BICAR-ICU",
+        "08:24 Chỉ định theo tình huống (1): toan ở hồi sức",
+        "09:29 Chỉ định theo tình huống (2): tăng kali và ngộ độc",
+        "10:42 Chỉ định theo tình huống (3): mất kiềm, mạn tính, nên tránh",
+        "11:41 Văn bản trong nước và bằng chứng mới",
+        "12:22 Tình huống: nhiễm toan ceton pH 6,92",
+        "13:18 Bảy thông điệp về natri bicarbonat"
+      ]
+    },
+    {
+      "ten": "Ba ca lâm sàng",
+      "youtube": "",
+      "phut": 8,
+      "tinh_huong": "Sau 8 giờ điều trị nhiễm toan ceton, ceton máu 0,8 nhưng HCO₃ vẫn 13: tăng insulin hay không?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:25 Ca 1: sốc nhiễm khuẩn, thiểu niệu",
+        "00:49 Ca 1: khí máu và sinh hoá",
+        "01:12 Đọc khí máu",
+        "02:03 Có dùng natri bicarbonat?",
+        "03:07 Ca 1: diễn tiến 24 giờ",
+        "03:42 Ca 2: nhiễm toan ceton nặng",
+        "04:27 Bicarbonat còn thấp: DKA chưa đỡ?",
+        "05:23 Ca 3: uống thuốc chống trầm cảm",
+        "05:42 Natri bicarbonat trong ngộ độc ba vòng",
+        "06:42 Câu hỏi còn bỏ ngỏ",
+        "07:19 Bảy thông điệp của toàn loạt"
+      ]
+    }
+  ]
+}
