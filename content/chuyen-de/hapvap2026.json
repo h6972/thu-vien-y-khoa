@@ -1,0 +1,127 @@
+{
+  "ten_ngan": "Viêm phổi bệnh viện – thở máy",
+  "tieu_de": "Viêm phổi bệnh viện và viêm phổi liên quan thở máy 2026: vi sinh Việt Nam, chẩn đoán, kháng sinh, vi khuẩn kháng carbapenem và ca lâm sàng hồi sức",
+  "chuyen_khoa": "hoisuc",
+  "nam": 2026,
+  "thu_tu": 15,
+  "an": false,
+  "nguon": "Kalil AC, et al. IDSA/ATS 2016 · Torres A, et al. ERS/ESICM/ESCMID/ALAT 2017 · Tamma PD, et al. IDSA 2026 · ESCMID 2022 · Đồng thuận polymyxin 2019 · SHEA/IDSA/APIC 2022 · SIAARTI 2026 · CDC/NHSN 2026 · RECUVAP 2025 · Hội Hô hấp Việt Nam và Hội HSCC&CĐ Việt Nam 2023 · Melsen 2013, Fernando 2020, Phu 2016 · PneumA, REGARD-VAP, ATTACK, AIDA, OVERCOME, CREDIBLE-CR, INHALE, AMIKINHAL, PROPHY-VAP, SuDDICU",
+  "tom_tat": "Loạt 5 bài bệnh học về viêm phổi bệnh viện (HAP) và viêm phổi liên quan thở máy (VAP), cập nhật theo IDSA/ATS 2016, ERS/ESICM 2017, IDSA 2026 về vi khuẩn Gram âm kháng thuốc, SHEA 2022 và khuyến cáo Việt Nam 2023. Đi từ định nghĩa, gánh nặng và dữ liệu kháng carbapenem tại các hồi sức Việt Nam, qua chẩn đoán (hút nội khí quản hay BAL, VAE, VAP tái phát), kháng sinh kinh nghiệm kèm liều và thời gian điều trị, đến chọn thuốc cho Enterobacterales và A. baumannii kháng carbapenem, colistin, phòng ngừa; kết thúc bằng một ca VAP do CRAB tại hồi sức.",
+  "diem_chinh": [
+    "Tử vong thô 20–50% nhưng tử vong quy kết chỉ khoảng 13% (Melsen 2013)",
+    "15 ICU Việt Nam: A. baumannii kháng carbapenem 89,2%, P. aeruginosa 55,7%",
+    "Không có tiêu chuẩn vàng chẩn đoán VAP; VAE dùng để giám sát, không để chẩn đoán",
+    "PneumA: 8 ngày tương đương 15 ngày; REGARD-VAP: tác dụng phụ 8% so với 38%",
+    "Enterobacterales kháng carbapenem: chọn thuốc theo enzym KPC, NDM, OXA-48 (IDSA 2026)",
+    "CRAB: sulbactam–durlobactam phối hợp carbapenem; ATTACK tử vong 19% so với 32%",
+    "Colistin: liều nạp 300 mg CBA ≈ 9 triệu IU; 1 triệu IU ≈ 33 mg CBA"
+  ],
+  "playlist": "",
+  "tai_lieu": [
+    {
+      "id": "hapvap2026-chuyen-de",
+      "ten": "Chuyên đề tự học viêm phổi bệnh viện – viêm phổi thở máy (Word/PDF)",
+      "loai": "bai"
+    }
+  ],
+  "phan": [
+    {
+      "ten": "Định nghĩa, gánh nặng và vi sinh tại Việt Nam",
+      "youtube": "",
+      "phut": 9,
+      "tinh_huong": "Người bệnh nằm khoa nội 5 ngày, viêm phổi rồi mới phải đặt ống thở máy: đó có phải VAP?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:29 Gọi tên cho đúng: HAP, VAP, vHAP, VAT",
+        "01:24 Gánh nặng: thô và quy kết",
+        "02:10 Việt Nam: tỷ lệ VAP và kháng carbapenem",
+        "03:00 Ba trực khuẩn Gram âm thống trị ICU Việt Nam",
+        "03:41 Còn bao nhiêu phần trăm nhạy carbapenem?",
+        "04:24 Từ cư trú đến viêm phổi",
+        "05:08 Ống nội khí quản: cửa ngõ của vi khuẩn",
+        "05:44 25 năm thay đổi thực hành",
+        "06:37 Yếu tố nguy cơ vi khuẩn đa kháng",
+        "07:28 Tình huống: gọi tên thế nào?",
+        "08:11 Phần 1 – điều cần nhớ"
+      ]
+    },
+    {
+      "ten": "Chẩn đoán",
+      "youtube": "",
+      "phut": 8,
+      "tinh_huong": "Thở máy ngày 9, hút nội khí quản mọc A. baumannii 10⁶ CFU/mL nhưng không sốt, X-quang không đổi: có điều trị không?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:30 Tiêu chuẩn chẩn đoán lâm sàng",
+        "01:08 Từng dấu hiệu đơn lẻ chính xác đến đâu?",
+        "01:47 Thâm nhiễm ở người bệnh nằm: VAP hay bệnh khác?",
+        "02:15 Hút nội khí quản hay rửa phế quản phế nang?",
+        "03:05 Bệnh phẩm thật: soi, cấy, nhuộm Gram",
+        "03:31 PCR đa mồi, procalcitonin, CPIS",
+        "04:23 VAE: thuật toán giám sát, không để chẩn đoán",
+        "05:10 VAP tái phát: bốn thực thể theo RECUVAP",
+        "05:59 Tình huống: cấy dương có phải viêm phổi?",
+        "06:46 Phần 2 – điều cần nhớ"
+      ]
+    },
+    {
+      "ten": "Kháng sinh kinh nghiệm và thời gian điều trị",
+      "youtube": "",
+      "phut": 8,
+      "tinh_huong": "VAP do P. aeruginosa nhạy cefepim, ngày 6 hết sốt 48 giờ, đã ngừng vận mạch: ngừng kháng sinh ở ngày 7 được không?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:28 Phác đồ kinh nghiệm: hai câu hỏi",
+        "01:11 Ngưỡng quyết định: Mỹ, châu Âu, Việt Nam",
+        "02:05 Phác đồ kinh nghiệm và liều",
+        "03:18 48–72 giờ: đánh giá lại và xuống thang",
+        "03:58 PneumA: 8 ngày hay 15 ngày?",
+        "04:38 REGARD-VAP: liệu trình ngắn ở vùng kháng thuốc cao",
+        "05:17 Thời gian điều trị: các hội nói gì?",
+        "06:08 Ba bẫy thường gặp",
+        "06:37 Tình huống: ngừng ngày 7 được không?",
+        "07:27 Phần 3 – điều cần nhớ"
+      ]
+    },
+    {
+      "ten": "Vi khuẩn kháng carbapenem, polymyxin và phòng ngừa",
+      "youtube": "",
+      "phut": 10,
+      "tinh_huong": "VAP do Klebsiella pneumoniae sinh NDM, kháng sinh đồ báo nhạy ceftazidim–avibactam: chọn thuốc nào?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:30 Enterobacterales kháng carbapenem: chọn theo enzym",
+        "01:21 Trực khuẩn mủ xanh và vi khuẩn sinh ESBL",
+        "02:10 Đọc kháng sinh đồ: khi nào nghĩ đến enzym?",
+        "02:47 CRAB theo IDSA 2026: luôn phối hợp, không khí dung",
+        "03:27 Bằng chứng: ATTACK, AIDA, OVERCOME, CREDIBLE-CR",
+        "04:20 CRAB: Mỹ, châu Âu, Việt Nam nói khác nhau",
+        "05:06 Colistin và polymyxin B: dùng cho đúng",
+        "06:01 Kháng sinh khí dung: kỳ vọng và bằng chứng",
+        "06:45 Phòng ngừa theo SHEA 2022",
+        "07:32 Kháng sinh dự phòng: AMIKINHAL, PROPHY-VAP",
+        "08:12 Tình huống: Klebsiella sinh NDM",
+        "09:03 Phần 4 – điều cần nhớ"
+      ]
+    },
+    {
+      "ten": "Ca lâm sàng hồi sức và tổng kết",
+      "youtube": "",
+      "phut": 8,
+      "tinh_huong": "Sốt lại ngày thở máy thứ 7 sau mổ bụng, cấy ra A. baumannii kháng carbapenem, colistin MIC 0,5: điều chỉnh kháng sinh thế nào?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:30 Ngày thở máy thứ 7",
+        "01:02 Xét nghiệm và hình ảnh",
+        "01:28 Hình ảnh minh hoạ",
+        "01:44 Phác đồ kinh nghiệm",
+        "02:34 Y lệnh giờ đầu (minh hoạ, đã qua kiểm liều)",
+        "03:18 Khi có kháng sinh đồ",
+        "04:22 Ngừng kháng sinh khi nào?",
+        "05:14 Diễn tiến tại hồi sức",
+        "05:50 Sáu bước xử trí tại giường",
+        "06:18 Sáu thông điệp của loạt bài"
+      ]
+    }
+  ]
+}
