@@ -1,0 +1,158 @@
+{
+  "ten_ngan": "Tổn thương thận cấp",
+  "tieu_de": "Tổn thương thận cấp 2026: định nghĩa KDIGO mới, chỉ dấu, điều trị nội khoa, lọc máu và ca lâm sàng hồi sức",
+  "chuyen_khoa": "hoisuc",
+  "nam": 2026,
+  "thu_tu": 14,
+  "an": false,
+  "nguon": "KDIGO 2026 AKI/AKD (bản dự thảo lấy ý kiến) · KDIGO 2012 · ADQI 16, 23, 28 · ICA/ADQI 2024 (HRS-AKI) · Hội Y học Hồi sức Trung Quốc 2026 · AKI-EPI, Sapphire, FST, PrevAKI, SMART, BaSICS, PLUS, CHEST, 6S, BICAR-ICU, BICARICU-2, PRESERVE, PROTECTION, CONFIRM, ACORN, ELAIN, AKIKI, IDEAL-ICU, STARRT-AKI, AKIKI2, ICRAKI, ATN, RENAL, RICH",
+  "tom_tat": "Loạt 5 bài bệnh học về tổn thương thận cấp ở hồi sức, cập nhật theo bản dự thảo KDIGO 2026 và các thử nghiệm mới nhất. Đi từ định nghĩa mới, chuỗi AKI – AKD – CKD và phân giai đoạn C – U – B, qua cơ chế, chỉ dấu sinh học và test furosemide, điều trị nội khoa (dịch, vận mạch, bicarbonate, thuốc độc thận), các tình huống đặc thù (thuốc cản quang, mổ tim, HRS-AKI, ly giải u), đến liệu pháp thay thế thận: thời điểm, phương thức, liều, chống đông citrate và cai lọc máu. Kèm một ca sốc nhiễm khuẩn có tổn thương thận cấp từ ngày 1 đến khi ra viện.",
+  "diem_chinh": [
+    "AKI-EPI: 57,3% người bệnh hồi sức có tổn thương thận cấp trong tuần đầu, 23,5% trong số đó cần lọc máu",
+    "KDIGO 2026 (dự thảo): thêm cystatin C và chỉ dấu tổn thương vào định nghĩa, phân giai đoạn C – U – B",
+    "Test furosemide 1 hoặc 1,5 mg/kg: nước tiểu <200 mL trong 2 giờ dự báo tiến triển giai đoạn 3 (độ nhạy 87,1%, đặc hiệu 84,1%)",
+    "BICARICU-2: bicarbonate truyền tĩnh mạch giảm tỷ lệ phải lọc máu từ 50% xuống 35% ở toan nặng có AKI",
+    "Không khởi động lọc máu sớm khi chưa có chỉ định cấp cứu: chờ có theo dõi (STARRT-AKI, AKIKI2)",
+    "ICRAKI 2026: bắt đầu bằng chạy thận ngắt quãng tăng tử vong ngày 90 (63,1% so với 53,5%); huyết động không ổn định thì lọc liên tục, liều thực nhận 20–25 mL/kg/giờ, citrate vùng"
+  ],
+  "playlist": "",
+  "tai_lieu": [
+    {
+      "id": "ton-thuong-than-cap-chuyen-de",
+      "ten": "Chuyên đề tự học tổn thương thận cấp (Word/PDF)",
+      "loai": "bai"
+    }
+  ],
+  "phan": [
+    {
+      "ten": "Định nghĩa mới AKI – AKD và phân giai đoạn",
+      "youtube": "",
+      "phut": 10,
+      "tinh_huong": "Creatinin 2,3 lần nền, nước tiểu 0,25 mL/kg/giờ trong 26 giờ – ghi giai đoạn theo KDIGO 2026 thế nào?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:42 Tổn thương thận cấp ở hồi sức",
+        "01:22 Định nghĩa tổn thương thận cấp 2026",
+        "02:01 KDIGO 2012 và KDIGO 2026",
+        "02:37 Từ “suy thận cấp” đến KDIGO 2026",
+        "03:32 Một chuỗi liên tục, không phải ba bệnh",
+        "04:19 Bệnh thận cấp: phổ biến và nguy hiểm",
+        "04:43 Chọn creatinin nền theo thứ bậc",
+        "05:37 Khi nào nên đo cystatin C?",
+        "06:28 Phân giai đoạn C – U – B",
+        "07:15 Nước tiểu thêm thông tin tiên lượng",
+        "07:52 Thoáng qua, kéo dài, hồi phục",
+        "08:29 Tình huống: phân giai đoạn",
+        "09:19 Ghi nhớ phần 1"
+      ]
+    },
+    {
+      "ten": "Cơ chế, nguyên nhân, chỉ dấu và test furosemide",
+      "youtube": "",
+      "phut": 9,
+      "tinh_huong": "Nữ 60 kg, AKI giai đoạn 2, thừa dịch, đã dùng furosemide 2 ngày trước – liều furosemide cho test là bao nhiêu?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:26 Ba chỉ dấu, ba tốc độ",
+        "01:04 Creatinin và nước tiểu đánh lừa ta thế nào",
+        "01:39 Chỉ dấu theo vị trí tổn thương",
+        "02:09 [TIMP-2]·[IGFBP7]: bằng chứng Sapphire",
+        "02:47 Khi nào dùng chỉ dấu?",
+        "03:26 Thận tổn thương trong nhiễm khuẩn huyết",
+        "04:23 AKI liên quan nhiễm khuẩn huyết",
+        "04:52 Mỗi cơ chế, một đích điều trị",
+        "05:30 Siêu âm: loại trừ tắc nghẽn",
+        "05:56 Nguyên nhân cần điều trị đặc hiệu",
+        "06:34 Test furosemide (FST) tại giường",
+        "07:24 Test furosemide tiên đoán tốt đến đâu?",
+        "07:49 Tình huống: test furosemide",
+        "08:33 Ghi nhớ phần 2"
+      ]
+    },
+    {
+      "ten": "Điều trị nội khoa",
+      "youtube": "",
+      "phut": 10,
+      "tinh_huong": "Sốc nhiễm khuẩn, AKI giai đoạn 3, pH 7,16, HCO₃⁻ 11, kali 5,6, không phù phổi – xử trí toan thế nào?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:28 Việc gì, lúc nào",
+        "01:04 PrevAKI: bó KDIGO dựa trên chỉ dấu",
+        "01:51 Bó bảo vệ thận gồm những gì?",
+        "02:31 Dịch cân bằng hay muối sinh lý?",
+        "03:13 Tinh bột hydroxyethyl: bài học đắt giá",
+        "03:46 KDIGO 2026 về dịch truyền",
+        "04:18 Huyết áp và thuốc vận mạch",
+        "04:56 Lợi tiểu: đúng chỉ định",
+        "05:27 Bicarbonate trong toan nặng có AKI",
+        "06:04 Bicarbonate trước lọc máu",
+        "06:52 Quản lý thuốc độc thận (stewardship)",
+        "07:59 Tình huống: pH 7,16",
+        "08:52 Ghi nhớ phần 3"
+      ]
+    },
+    {
+      "ten": "Tình huống đặc thù",
+      "youtube": "",
+      "phut": 8,
+      "tinh_huong": "Xơ gan cổ trướng, creatinin 0,8 → 2,1 dù đã hồi sức thể tích 24 giờ – chờ albumin thêm 48 giờ hay điều trị ngay?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:22 AKI liên quan nhiễm khuẩn huyết",
+        "01:01 Phòng AKI do thuốc cản quang",
+        "01:42 Bicarbonate và NAC: không hiệu quả",
+        "02:21 Acid amin truyền tĩnh mạch trong mổ tim",
+        "03:15 Tiêu chuẩn HRS-AKI mới (2024)",
+        "04:07 Terlipressin: lợi ích và cái giá",
+        "04:36 Thuốc co mạch và albumin trong HRS-AKI",
+        "05:30 Ly giải u và tiêu cơ vân",
+        "06:00 Tình huống: xơ gan và creatinin tăng",
+        "06:53 Ghi nhớ phần 4"
+      ]
+    },
+    {
+      "ten": "Liệu pháp thay thế thận",
+      "youtube": "",
+      "phut": 11,
+      "tinh_huong": "Sốc nhiễm khuẩn, noradrenalin, kali 6,3 kháng trị, P/F 180 kèm quá tải dịch – lọc máu thế nào?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:26 Khi nào không được chờ?",
+        "01:04 Năm thử nghiệm về thời điểm khởi động",
+        "01:46 Khởi động sớm: không lợi, có hại",
+        "02:19 Chờ có theo dõi, không chờ quá mức",
+        "02:59 Liên tục hay ngắt quãng?",
+        "03:22 ICRAKI: chạy thận ngắt quãng ban đầu tăng tử vong",
+        "04:11 Khuyến cáo chọn phương thức",
+        "04:40 Liều cao hơn không tốt hơn",
+        "05:15 20–25 mL/kg/giờ thực nhận",
+        "06:02 Chống đông citrate vùng hoạt động thế nào",
+        "06:50 Citrate hay heparin: thử nghiệm RICH",
+        "07:36 Catheter, dịch lọc, cân bằng dịch",
+        "08:06 Khi nào ngừng lọc máu?",
+        "08:42 Theo dõi sau tổn thương thận cấp",
+        "09:26 Tình huống: ngày 3 ở hồi sức",
+        "10:21 Ghi nhớ phần 5"
+      ]
+    },
+    {
+      "ten": "Ca lâm sàng: sốc nhiễm khuẩn và tổn thương thận cấp",
+      "youtube": "",
+      "phut": 6,
+      "tinh_huong": "Ngày 3: kali 6,3 dù điều trị nội khoa, đang dùng noradrenalin – bạn chọn phương thức lọc máu nào?",
+      "moc": [
+        "00:00 Mở đầu",
+        "00:28 Sinh hiệu ngày 1",
+        "00:52 Creatinin và nền",
+        "01:15 Ngày 1: làm gì cho thận?",
+        "02:00 Ngày 2: toan nặng",
+        "02:17 Ngày 2: toan và quá tải",
+        "03:07 Ngày 3: xấu đi",
+        "03:26 Ngày 3: lọc máu thế nào?",
+        "04:11 Diễn tiến đến ngày 9",
+        "04:36 Ngày 9: ngừng lọc máu?",
+        "05:11 Ra viện và bài học"
+      ]
+    }
+  ]
+}
